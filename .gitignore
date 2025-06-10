@@ -1,0 +1,29 @@
+# Python bytecode
+*.pyc
+*.pyd
+*.pyo
+__pycache__/
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Model and data files that are too large or should not be versioned
+# Consider if you want to version the .pkl file or just the training script.
+# For simplicity in this project, we might include the .pkl if it's small enough for GitHub's limits.
+# If your .pkl is very large (e.g., >100MB), you'll need Git LFS.
+# For now, let's include it assuming it's reasonably sized.
+# random_forest_pipeline.pkl  # Uncomment this line if you want to IGNORE the model file
+# financing_approval_balanced_dataset_Tunisia_with_interactions.csv # Uncomment if you want to IGNORE the dataset
+
+# Flask specific
+instance/
+.flaskenv
+
+# Editor/OS specific files
+.DS_Store
+.vscode/
+*.swp
+*~
+.#*
