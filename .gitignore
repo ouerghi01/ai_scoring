@@ -3,7 +3,7 @@
 *.pyd
 *.pyo
 __pycache__/
-
+.pytest_cache/
 # Virtual environment
 .venv/
 env/

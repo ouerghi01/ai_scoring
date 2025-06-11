@@ -1,0 +1,1001 @@
+age,situation_familiale,nombre_enfants,statut_professionnel,type_contrat,revenus_mensuels_nets,apport_propre,duree_financement,historique_credit,montant_credit,anciennete_emploi,charges_mensuelles,compte_bancaire_actif,incident_bancaire,region,approved
+56,Veuf,0,Cadre supérieur,CDD,3889,15580,72 mois,Bon,6251,8 ans,1242,Oui,Non,Mahdia,1
+46,Marié,3,Employé,Auto-entrepreneur,2769,11138,72 mois,Moyen,68671,20 ans,958,Oui,Oui,Sfax,0
+59,Marié,4,Employé,Intérim,2643,1772,60 mois,Très bon,8176,4 ans,1320,Oui,Non,Ariana,1
+60,Célibataire,0,Indépendant,CDI,2237,8680,60 mois,Excellent,47540,8 ans,594,Oui,Oui,Gabès,0
+53,Célibataire,0,Indépendant,CDI,1221,1425,72 mois,Faible,44356,10 ans,1283,Oui,Non,Kairouan,0
+35,Célibataire,4,Cadre supérieur,Auto-entrepreneur,3853,9288,96 mois,Moyen,72403,5 mois,673,Oui,Non,Ariana,0
+60,Divorcé,0,Indépendant,Auto-entrepreneur,2323,11530,48 mois,Faible,6054,11 ans,1527,Oui,Non,Nabeul,0
+36,Célibataire,4,Cadre supérieur,CDD,4257,9962,36 mois,Moyen,14704,14 ans,1556,Oui,Non,Sousse,0
+53,Célibataire,3,Cadre supérieur,Intérim,3014,6370,96 mois,Faible,72805,17 ans,784,Oui,Non,Monastir,0
+31,Marié,0,Cadre supérieur,CDD,3791,15260,36 mois,Très bon,12401,17 ans,1019,Oui,Oui,Sousse,0
+30,Marié,1,Indépendant,Intérim,1988,2224,96 mois,Très bon,63112,6 ans,786,Oui,Non,Bizerte,1
+22,Divorcé,4,Indépendant,CDI,2042,12717,48 mois,Moyen,68190,5 mois,1112,Oui,Non,Bizerte,0
+24,Divorcé,4,Employé,CDI,2300,3795,96 mois,Moyen,58689,20 ans,676,Oui,Non,Gabès,0
+45,Célibataire,0,Employé,CDI,2189,8262,96 mois,Très bon,53963,14 ans,582,Oui,Non,Mahdia,1
+58,Célibataire,0,Indépendant,Intérim,2484,13444,84 mois,Excellent,67726,6 mois,799,Oui,Non,Monastir,1
+48,Divorcé,2,Fonctionnaire,Auto-entrepreneur,2967,13569,72 mois,Faible,66459,6 ans,1017,Oui,Non,Monastir,0
+45,Veuf,1,Fonctionnaire,Intérim,2365,15039,12 mois,Excellent,49315,6 ans,505,Oui,Non,Ariana,1
+50,Divorcé,3,Fonctionnaire,Auto-entrepreneur,2718,19052,12 mois,Bon,63031,19 ans,1175,Oui,Oui,Mahdia,0
+52,Célibataire,1,Fonctionnaire,CDI,2920,18239,12 mois,Très bon,12634,3 ans,1039,Oui,Non,Bizerte,1
+47,Célibataire,3,Indépendant,CDD,2115,10637,60 mois,Excellent,46931,5 ans,1079,Oui,Oui,Gabès,0
+42,Marié,0,Cadre supérieur,Intérim,3823,19241,96 mois,Excellent,77922,4 mois,773,Oui,Non,Gabès,1
+28,Marié,2,Cadre supérieur,CDD,3729,17633,84 mois,Faible,26582,6 mois,1146,Oui,Non,Sousse,0
+25,Marié,1,Employé,Intérim,2496,13639,60 mois,Très bon,27809,20 ans,1403,Oui,Non,Mahdia,1
+43,Marié,0,Indépendant,Auto-entrepreneur,1286,18171,24 mois,Excellent,62557,20 ans,1003,Oui,Non,Monastir,1
+59,Marié,0,Cadre supérieur,Intérim,3379,16663,36 mois,Très bon,48296,13 ans,1207,Oui,Non,Tunis,1
+31,Marié,4,Cadre supérieur,Intérim,3185,850,84 mois,Faible,29222,14 ans,1028,Oui,Non,Nabeul,0
+47,Célibataire,4,Fonctionnaire,CDI,3254,11008,36 mois,Très bon,52238,11 ans,1170,Oui,Non,Mahdia,1
+44,Veuf,4,Cadre supérieur,CDI,4394,4825,24 mois,Très bon,49145,2 ans,1478,Oui,Non,Monastir,1
+40,Veuf,4,Cadre supérieur,Auto-entrepreneur,3830,9167,72 mois,Faible,37030,9 ans,577,Oui,Oui,Mahdia,0
+31,Marié,0,Employé,Intérim,1442,6820,36 mois,Bon,47317,1 ans,600,Oui,Non,Tunis,1
+31,Marié,1,Employé,Intérim,2034,8898,84 mois,Faible,61862,9 mois,1553,Oui,Oui,Bizerte,0
+54,Divorcé,3,Fonctionnaire,Intérim,3116,11333,72 mois,Très bon,43829,8 ans,1488,Oui,Non,Ariana,1
+46,Célibataire,2,Fonctionnaire,CDI,2384,8285,48 mois,Bon,57371,3 ans,777,Oui,Non,Mahdia,1
+32,Veuf,1,Cadre supérieur,CDD,4203,7245,84 mois,Bon,74031,16 ans,948,Oui,Non,Sousse,1
+60,Marié,4,Indépendant,Auto-entrepreneur,1915,11127,72 mois,Faible,13901,9 mois,761,Oui,Non,Kairouan,0
+26,Marié,2,Fonctionnaire,CDD,3201,14422,96 mois,Faible,10476,18 ans,1001,Oui,Non,Sfax,0
+59,Veuf,0,Indépendant,Auto-entrepreneur,1870,6992,84 mois,Excellent,5696,3 ans,678,Oui,Oui,Kairouan,0
+26,Marié,2,Indépendant,CDD,2197,13472,12 mois,Très bon,72685,10 mois,568,Oui,Oui,Tunis,0
+46,Divorcé,3,Employé,CDD,2222,17374,72 mois,Très bon,30201,4 ans,1207,Oui,Oui,Kairouan,0
+37,Divorcé,1,Employé,CDD,2255,2377,24 mois,Excellent,14174,7 mois,1593,Oui,Non,Bizerte,1
+36,Célibataire,3,Employé,Intérim,2421,13220,84 mois,Très bon,20097,11 ans,899,Oui,Non,Monastir,1
+49,Célibataire,4,Cadre supérieur,Auto-entrepreneur,3257,12872,12 mois,Faible,45785,18 ans,698,Oui,Non,Ariana,0
+30,Veuf,3,Indépendant,CDD,1524,4700,36 mois,Excellent,68869,0 ans,1484,Oui,Non,Monastir,1
+37,Divorcé,0,Cadre supérieur,Intérim,3991,19656,12 mois,Bon,71196,1 mois,777,Oui,Non,Tunis,1
+59,Célibataire,1,Indépendant,CDI,1659,7797,72 mois,Très bon,58263,8 ans,759,Oui,Non,Ariana,1
+46,Veuf,1,Fonctionnaire,CDI,3168,3142,96 mois,Faible,62339,19 ans,669,Oui,Non,Sfax,0
+37,Divorcé,2,Employé,Auto-entrepreneur,2280,12608,72 mois,Bon,48374,18 ans,837,Oui,Oui,Mahdia,0
+41,Marié,1,Employé,Intérim,2235,4175,60 mois,Excellent,19646,0 ans,1528,Oui,Non,Sousse,1
+23,Divorcé,1,Fonctionnaire,CDI,3261,1378,60 mois,Très bon,21663,20 ans,1313,Oui,Non,Sfax,1
+51,Divorcé,0,Fonctionnaire,CDI,2533,16103,96 mois,Faible,59122,11 ans,1197,Oui,Non,Gabès,0
+46,Divorcé,1,Cadre supérieur,Auto-entrepreneur,3429,18102,24 mois,Très bon,69062,3 mois,1307,Oui,Non,Sfax,1
+53,Marié,4,Employé,Intérim,1521,11333,12 mois,Très bon,58790,7 ans,623,Oui,Non,Kairouan,1
+37,Célibataire,1,Cadre supérieur,CDI,3352,11820,60 mois,Moyen,35279,2 ans,777,Oui,Non,Monastir,0
+60,Veuf,3,Indépendant,CDD,2110,14016,36 mois,Bon,6855,11 ans,1271,Oui,Non,Tunis,1
+42,Divorcé,3,Employé,Intérim,2385,3014,96 mois,Très bon,42811,19 ans,653,Oui,Non,Gabès,1
+50,Célibataire,3,Indépendant,Intérim,1233,6438,24 mois,Moyen,35110,8 ans,1082,Oui,Non,Mahdia,0
+44,Marié,3,Indépendant,CDI,1485,7997,96 mois,Très bon,46319,18 ans,991,Oui,Non,Nabeul,1
+28,Marié,3,Employé,CDD,2876,16418,36 mois,Très bon,73033,14 ans,987,Oui,Non,Nabeul,1
+55,Marié,2,Cadre supérieur,Auto-entrepreneur,4424,8964,48 mois,Bon,75261,9 mois,1500,Oui,Non,Gabès,1
+37,Célibataire,3,Indépendant,CDI,2391,13033,36 mois,Bon,22646,3 mois,1102,Oui,Oui,Kairouan,0
+23,Marié,4,Employé,CDI,2881,1661,60 mois,Bon,76775,13 ans,1001,Oui,Oui,Nabeul,0
+29,Célibataire,3,Employé,Auto-entrepreneur,2833,5421,72 mois,Moyen,56618,18 ans,1149,Oui,Non,Ariana,0
+32,Divorcé,1,Employé,CDD,1674,4274,36 mois,Très bon,45917,16 ans,717,Oui,Oui,Kairouan,0
+24,Marié,1,Fonctionnaire,CDD,2335,19213,36 mois,Très bon,23543,2 ans,555,Oui,Oui,Sfax,0
+53,Célibataire,2,Cadre supérieur,Auto-entrepreneur,3013,10921,36 mois,Excellent,60989,10 mois,522,Oui,Non,Gabès,1
+26,Marié,4,Employé,Auto-entrepreneur,1425,12832,96 mois,Bon,20793,17 ans,1123,Oui,Non,Bizerte,1
+59,Veuf,3,Indépendant,Intérim,1543,17736,96 mois,Excellent,15574,5 ans,1514,Oui,Oui,Bizerte,0
+47,Divorcé,4,Fonctionnaire,Auto-entrepreneur,2961,2570,12 mois,Excellent,73678,20 ans,1518,Oui,Oui,Bizerte,0
+46,Divorcé,4,Employé,CDI,2229,11263,12 mois,Excellent,17047,17 ans,515,Oui,Non,Tunis,1
+59,Célibataire,1,Indépendant,Auto-entrepreneur,2474,15252,24 mois,Moyen,21905,10 ans,1429,Oui,Oui,Mahdia,0
+40,Marié,2,Indépendant,Auto-entrepreneur,1906,19135,24 mois,Faible,56003,16 ans,504,Oui,Non,Bizerte,0
+42,Veuf,3,Fonctionnaire,CDD,2461,4329,72 mois,Excellent,61684,2 mois,811,Oui,Non,Bizerte,1
+34,Marié,0,Fonctionnaire,Intérim,2979,9503,96 mois,Moyen,23986,10 mois,1047,Oui,Oui,Sfax,0
+36,Marié,1,Fonctionnaire,CDI,3136,1809,48 mois,Très bon,55038,5 ans,1172,Oui,Non,Sousse,1
+38,Veuf,1,Employé,CDI,2551,16586,12 mois,Excellent,71849,11 mois,502,Oui,Non,Nabeul,1
+40,Divorcé,0,Cadre supérieur,Intérim,3666,1616,24 mois,Excellent,56327,16 ans,1151,Oui,Non,Bizerte,1
+29,Divorcé,2,Employé,CDI,1205,10248,24 mois,Moyen,30895,10 ans,694,Oui,Non,Sfax,0
+26,Marié,0,Employé,Auto-entrepreneur,2283,8236,96 mois,Faible,63696,11 ans,977,Oui,Non,Kairouan,0
+57,Marié,4,Fonctionnaire,CDI,2437,10346,12 mois,Excellent,6377,5 mois,533,Oui,Oui,Gabès,0
+22,Divorcé,2,Indépendant,Intérim,2442,5317,96 mois,Excellent,24585,12 ans,1198,Oui,Non,Sousse,1
+57,Marié,1,Employé,CDD,1515,4664,24 mois,Moyen,63110,17 ans,961,Oui,Non,Nabeul,0
+44,Divorcé,2,Employé,CDI,1719,17961,36 mois,Faible,58351,11 ans,791,Oui,Non,Gabès,0
+23,Divorcé,3,Fonctionnaire,Auto-entrepreneur,3253,8409,24 mois,Très bon,9164,17 ans,771,Oui,Oui,Nabeul,0
+25,Veuf,1,Indépendant,Auto-entrepreneur,2492,19195,60 mois,Excellent,30040,17 ans,686,Oui,Non,Monastir,1
+40,Célibataire,3,Indépendant,Intérim,2190,4414,12 mois,Excellent,14772,9 mois,1480,Oui,Non,Gabès,1
+24,Célibataire,3,Cadre supérieur,CDI,4235,14654,48 mois,Moyen,43444,15 ans,1175,Oui,Oui,Nabeul,0
+25,Marié,4,Indépendant,CDD,1479,8371,84 mois,Faible,59545,9 ans,619,Oui,Non,Mahdia,0
+29,Marié,1,Indépendant,CDD,2106,9127,60 mois,Faible,60470,9 ans,1539,Oui,Oui,Bizerte,0
+36,Marié,3,Cadre supérieur,Intérim,4358,3464,96 mois,Bon,10684,9 ans,1351,Oui,Non,Sfax,1
+49,Célibataire,0,Employé,CDD,2173,14768,24 mois,Bon,42305,10 ans,693,Oui,Non,Sfax,1
+29,Divorcé,2,Employé,Intérim,2895,17129,96 mois,Excellent,40948,6 mois,1075,Oui,Non,Monastir,1
+52,Marié,4,Cadre supérieur,Auto-entrepreneur,3632,967,84 mois,Moyen,39788,4 mois,1517,Oui,Non,Gabès,0
+36,Veuf,0,Indépendant,CDD,1448,3554,36 mois,Moyen,13966,16 ans,704,Oui,Non,Kairouan,0
+30,Divorcé,4,Employé,Intérim,1652,18827,36 mois,Excellent,48448,4 ans,1046,Oui,Non,Mahdia,1
+31,Célibataire,4,Employé,CDI,1715,5482,48 mois,Moyen,66066,10 ans,1338,Oui,Non,Bizerte,0
+52,Marié,4,Cadre supérieur,Auto-entrepreneur,3306,15620,84 mois,Bon,35768,5 ans,847,Oui,Non,Ariana,1
+58,Divorcé,3,Employé,Intérim,1669,1206,36 mois,Excellent,57206,5 mois,1173,Oui,Non,Monastir,1
+32,Divorcé,1,Employé,CDD,1885,16050,12 mois,Excellent,45623,15 ans,921,Oui,Non,Mahdia,1
+49,Marié,3,Employé,Intérim,1226,13707,72 mois,Moyen,33132,5 ans,1063,Oui,Oui,Monastir,0
+53,Veuf,2,Indépendant,CDD,1707,12865,24 mois,Bon,79011,14 ans,1503,Oui,Oui,Monastir,0
+46,Divorcé,1,Employé,Auto-entrepreneur,2803,10815,96 mois,Très bon,36058,8 ans,1323,Oui,Oui,Gabès,0
+57,Célibataire,2,Employé,Intérim,2465,12470,84 mois,Excellent,20698,14 ans,946,Oui,Non,Kairouan,1
+30,Divorcé,1,Indépendant,Auto-entrepreneur,2448,16558,12 mois,Très bon,6673,9 ans,524,Oui,Non,Sousse,1
+43,Marié,4,Indépendant,CDD,1444,4716,96 mois,Très bon,52560,0 ans,1394,Oui,Non,Nabeul,1
+36,Veuf,3,Employé,CDI,1932,17557,36 mois,Excellent,67614,18 ans,902,Oui,Oui,Sfax,0
+42,Veuf,1,Indépendant,Auto-entrepreneur,1514,1557,36 mois,Bon,71163,15 ans,1132,Oui,Non,Bizerte,1
+45,Divorcé,4,Fonctionnaire,CDI,2740,6696,96 mois,Bon,8689,8 ans,1254,Oui,Non,Gabès,1
+22,Célibataire,2,Indépendant,Intérim,2387,9427,24 mois,Excellent,48087,11 ans,978,Oui,Non,Nabeul,1
+31,Divorcé,1,Indépendant,CDI,2054,17318,48 mois,Bon,44914,13 ans,617,Oui,Non,Tunis,1
+48,Veuf,1,Indépendant,Auto-entrepreneur,1891,12680,84 mois,Moyen,70734,3 mois,904,Oui,Non,Monastir,0
+56,Marié,4,Indépendant,CDD,1591,7690,60 mois,Excellent,66843,9 ans,1259,Oui,Oui,Monastir,0
+47,Divorcé,2,Cadre supérieur,Auto-entrepreneur,3424,16810,24 mois,Excellent,8615,0 ans,1085,Oui,Non,Sousse,1
+49,Divorcé,3,Fonctionnaire,CDI,3322,3382,36 mois,Excellent,22805,8 ans,1017,Oui,Non,Monastir,1
+58,Célibataire,1,Employé,Intérim,1348,11166,72 mois,Excellent,13492,2 mois,942,Oui,Oui,Ariana,0
+57,Célibataire,0,Indépendant,CDI,1739,1955,12 mois,Très bon,24173,5 ans,693,Oui,Non,Gabès,1
+51,Célibataire,4,Employé,CDD,1571,15010,84 mois,Excellent,8351,13 ans,1455,Oui,Non,Sfax,1
+31,Célibataire,0,Fonctionnaire,CDI,2775,15617,12 mois,Moyen,29168,7 mois,1278,Oui,Oui,Ariana,0
+54,Veuf,3,Indépendant,CDD,1519,16522,72 mois,Moyen,69806,1 ans,1223,Oui,Non,Sousse,0
+28,Célibataire,1,Indépendant,Intérim,2118,13451,96 mois,Excellent,58920,0 ans,587,Oui,Non,Bizerte,1
+52,Célibataire,0,Employé,CDI,2823,8551,36 mois,Bon,79373,19 ans,1463,Oui,Non,Gabès,1
+35,Marié,0,Employé,Auto-entrepreneur,1213,6722,36 mois,Très bon,44557,14 ans,1163,Oui,Non,Kairouan,1
+41,Marié,0,Indépendant,CDD,1453,17905,84 mois,Excellent,35084,6 ans,1207,Oui,Non,Nabeul,1
+42,Divorcé,4,Fonctionnaire,Intérim,2838,10479,60 mois,Faible,48340,11 ans,1538,Oui,Non,Tunis,0
+32,Divorcé,3,Cadre supérieur,CDD,3601,16092,12 mois,Moyen,22894,5 ans,1216,Oui,Oui,Mahdia,0
+59,Veuf,2,Fonctionnaire,Auto-entrepreneur,2443,12923,72 mois,Faible,77593,8 ans,739,Oui,Non,Sousse,0
+48,Veuf,1,Employé,Intérim,1458,6297,72 mois,Très bon,29669,8 ans,675,Oui,Oui,Sfax,0
+51,Célibataire,0,Cadre supérieur,Intérim,3162,2594,24 mois,Très bon,68389,20 ans,955,Oui,Non,Nabeul,1
+39,Divorcé,1,Fonctionnaire,Auto-entrepreneur,3353,14519,72 mois,Excellent,68812,11 ans,601,Oui,Non,Tunis,1
+53,Marié,0,Cadre supérieur,Intérim,3516,17674,24 mois,Moyen,32007,17 ans,1455,Oui,Non,Tunis,0
+41,Divorcé,1,Cadre supérieur,CDI,4008,2099,84 mois,Bon,68811,19 ans,536,Oui,Non,Monastir,1
+45,Marié,4,Indépendant,Intérim,1549,13174,60 mois,Très bon,49151,10 ans,1077,Oui,Non,Ariana,1
+57,Veuf,2,Cadre supérieur,Auto-entrepreneur,4241,9832,36 mois,Faible,45260,10 ans,1297,Oui,Non,Tunis,0
+35,Célibataire,1,Cadre supérieur,Intérim,3967,11830,60 mois,Faible,59265,7 ans,784,Oui,Non,Ariana,0
+36,Divorcé,4,Cadre supérieur,CDD,3090,17202,36 mois,Excellent,38485,14 ans,583,Oui,Non,Monastir,1
+52,Marié,4,Employé,Intérim,2365,3681,24 mois,Excellent,61621,17 ans,1013,Oui,Non,Sfax,1
+42,Divorcé,1,Fonctionnaire,Intérim,3421,17456,84 mois,Bon,63961,19 ans,1185,Oui,Non,Nabeul,1
+59,Divorcé,4,Fonctionnaire,Auto-entrepreneur,2735,11739,72 mois,Bon,62237,2 ans,655,Oui,Non,Nabeul,1
+30,Marié,4,Employé,Auto-entrepreneur,1969,13570,96 mois,Bon,14394,13 ans,1572,Oui,Oui,Gabès,0
+55,Divorcé,0,Employé,Auto-entrepreneur,2464,16792,84 mois,Bon,21943,14 ans,1451,Oui,Oui,Nabeul,0
+39,Marié,4,Cadre supérieur,Auto-entrepreneur,3740,7636,60 mois,Très bon,60772,15 ans,556,Oui,Oui,Sfax,0
+40,Marié,2,Indépendant,Intérim,1693,7061,12 mois,Moyen,44003,12 ans,1006,Oui,Non,Nabeul,0
+49,Marié,4,Cadre supérieur,CDD,3960,15631,12 mois,Faible,53648,11 ans,862,Oui,Oui,Monastir,0
+34,Divorcé,0,Indépendant,CDD,1582,18401,12 mois,Excellent,38252,14 ans,591,Oui,Non,Tunis,1
+46,Divorcé,3,Indépendant,CDI,2486,9920,12 mois,Moyen,61800,13 ans,1537,Oui,Oui,Mahdia,0
+44,Célibataire,1,Cadre supérieur,Auto-entrepreneur,4025,16939,72 mois,Bon,53998,6 ans,772,Oui,Non,Sousse,1
+33,Marié,0,Fonctionnaire,Intérim,3335,1517,60 mois,Bon,71927,6 mois,823,Oui,Non,Sfax,1
+36,Veuf,2,Indépendant,Auto-entrepreneur,2438,14928,24 mois,Faible,19940,20 ans,1014,Oui,Non,Sousse,0
+35,Marié,3,Employé,Auto-entrepreneur,1774,7524,48 mois,Moyen,40755,7 ans,1458,Oui,Oui,Sfax,0
+59,Marié,0,Employé,Auto-entrepreneur,2420,13634,72 mois,Faible,12969,4 mois,1014,Oui,Oui,Monastir,0
+22,Veuf,2,Indépendant,Auto-entrepreneur,1363,1950,12 mois,Très bon,10639,13 ans,744,Oui,Non,Bizerte,1
+33,Marié,2,Employé,CDD,2096,4894,60 mois,Faible,45014,13 ans,1590,Oui,Oui,Kairouan,0
+57,Célibataire,1,Employé,CDD,2579,9665,60 mois,Excellent,36659,7 mois,915,Oui,Oui,Sousse,0
+58,Célibataire,4,Cadre supérieur,CDI,3585,2576,48 mois,Bon,73686,8 mois,709,Oui,Non,Sfax,1
+47,Célibataire,0,Indépendant,CDI,1719,18246,84 mois,Faible,34090,4 ans,709,Oui,Oui,Mahdia,0
+55,Veuf,3,Employé,CDD,2388,12268,24 mois,Très bon,78855,11 ans,783,Oui,Non,Ariana,1
+51,Marié,1,Indépendant,CDD,2087,10810,36 mois,Moyen,79562,11 mois,836,Oui,Oui,Gabès,0
+27,Marié,2,Indépendant,CDD,1584,4125,12 mois,Faible,48126,19 ans,1440,Oui,Non,Bizerte,0
+50,Célibataire,1,Employé,CDD,1302,8549,84 mois,Très bon,19543,5 ans,1520,Oui,Non,Sousse,1
+38,Veuf,2,Employé,Intérim,2873,11026,60 mois,Faible,15374,1 ans,965,Oui,Oui,Monastir,0
+57,Célibataire,0,Employé,CDD,2968,541,36 mois,Excellent,11515,13 ans,551,Oui,Non,Kairouan,1
+48,Marié,2,Cadre supérieur,CDD,4352,11381,96 mois,Moyen,64864,15 ans,1518,Oui,Non,Sfax,0
+39,Marié,4,Fonctionnaire,Auto-entrepreneur,2272,12475,36 mois,Très bon,69341,20 ans,1329,Oui,Non,Sfax,1
+32,Divorcé,4,Cadre supérieur,Auto-entrepreneur,3693,19846,60 mois,Très bon,41175,5 mois,1208,Oui,Non,Monastir,1
+33,Veuf,1,Employé,Auto-entrepreneur,1580,4377,84 mois,Bon,17169,20 ans,744,Oui,Non,Kairouan,1
+47,Célibataire,4,Cadre supérieur,Intérim,4468,8313,48 mois,Moyen,24686,2 mois,1532,Oui,Non,Monastir,0
+33,Célibataire,2,Indépendant,Intérim,1333,5772,36 mois,Bon,55278,3 ans,800,Oui,Non,Bizerte,1
+50,Marié,0,Employé,Auto-entrepreneur,2365,3566,24 mois,Bon,23719,19 ans,1465,Oui,Oui,Ariana,0
+44,Marié,2,Fonctionnaire,CDD,3049,14112,36 mois,Très bon,65086,5 mois,1026,Oui,Non,Nabeul,1
+53,Veuf,2,Cadre supérieur,Intérim,4020,9126,96 mois,Très bon,26618,15 ans,718,Oui,Oui,Tunis,0
+53,Marié,4,Fonctionnaire,CDI,3345,8457,96 mois,Moyen,5295,12 ans,848,Oui,Non,Monastir,0
+50,Divorcé,1,Fonctionnaire,Intérim,2742,17685,24 mois,Très bon,48798,2 mois,1546,Oui,Non,Monastir,1
+28,Veuf,3,Cadre supérieur,Auto-entrepreneur,4310,15598,12 mois,Moyen,73452,7 ans,953,Oui,Non,Mahdia,0
+30,Marié,4,Employé,Intérim,1820,19826,84 mois,Très bon,37873,0 ans,1598,Oui,Non,Sousse,1
+51,Marié,2,Indépendant,Auto-entrepreneur,1811,8223,96 mois,Très bon,50079,5 mois,1273,Oui,Oui,Gabès,0
+36,Marié,1,Fonctionnaire,CDI,3439,16250,36 mois,Moyen,5882,8 mois,777,Oui,Non,Mahdia,0
+56,Marié,4,Indépendant,CDI,2283,12042,72 mois,Faible,62358,2 ans,614,Oui,Oui,Monastir,0
+32,Veuf,3,Employé,Auto-entrepreneur,1894,15331,96 mois,Très bon,69333,5 ans,659,Oui,Non,Nabeul,1
+41,Célibataire,4,Indépendant,Intérim,1396,15326,48 mois,Excellent,67531,8 mois,593,Oui,Non,Mahdia,1
+57,Marié,1,Fonctionnaire,CDI,3247,2924,36 mois,Bon,38100,5 ans,1599,Oui,Non,Nabeul,1
+22,Veuf,1,Fonctionnaire,CDD,2577,12359,60 mois,Faible,35736,20 ans,782,Oui,Non,Sfax,0
+56,Divorcé,0,Employé,CDI,2199,18677,48 mois,Faible,25574,9 ans,1093,Oui,Non,Mahdia,0
+46,Veuf,3,Cadre supérieur,Auto-entrepreneur,3488,9914,48 mois,Bon,72946,1 ans,1324,Oui,Non,Gabès,1
+36,Marié,0,Employé,CDI,1345,7672,72 mois,Moyen,40723,0 ans,778,Oui,Non,Ariana,0
+30,Célibataire,2,Indépendant,Auto-entrepreneur,1478,10332,72 mois,Excellent,13102,12 ans,1357,Oui,Oui,Gabès,0
+55,Célibataire,2,Indépendant,CDD,2202,1297,48 mois,Moyen,38897,3 ans,1220,Oui,Non,Bizerte,0
+50,Marié,3,Fonctionnaire,Auto-entrepreneur,3065,10051,72 mois,Faible,44727,11 ans,754,Oui,Oui,Sfax,0
+52,Célibataire,4,Fonctionnaire,CDD,3081,13311,72 mois,Moyen,69754,12 ans,1178,Oui,Oui,Kairouan,0
+28,Célibataire,3,Employé,CDD,2701,11147,24 mois,Bon,33958,12 ans,526,Oui,Non,Gabès,1
+32,Veuf,0,Employé,CDI,2163,5675,48 mois,Très bon,76917,10 ans,507,Oui,Non,Ariana,1
+34,Veuf,1,Cadre supérieur,Auto-entrepreneur,3180,6267,24 mois,Faible,64861,17 ans,1442,Oui,Oui,Nabeul,0
+31,Veuf,0,Cadre supérieur,Auto-entrepreneur,3918,9206,72 mois,Très bon,51842,16 ans,536,Oui,Non,Nabeul,1
+51,Divorcé,0,Employé,Auto-entrepreneur,1541,2911,84 mois,Bon,79482,15 ans,1332,Oui,Oui,Kairouan,0
+37,Divorcé,4,Cadre supérieur,Intérim,3877,9178,36 mois,Bon,16413,1 mois,899,Oui,Non,Gabès,1
+41,Marié,0,Cadre supérieur,Intérim,3039,2727,84 mois,Moyen,37566,6 ans,925,Oui,Oui,Nabeul,0
+25,Divorcé,4,Fonctionnaire,CDI,2935,10322,36 mois,Moyen,67663,0 ans,1282,Oui,Non,Ariana,0
+41,Divorcé,2,Employé,Auto-entrepreneur,1915,9159,12 mois,Moyen,35604,8 ans,1379,Oui,Non,Monastir,0
+51,Marié,4,Indépendant,Intérim,1277,856,48 mois,Très bon,79253,7 ans,1313,Oui,Oui,Nabeul,0
+28,Marié,0,Fonctionnaire,Auto-entrepreneur,2560,1263,72 mois,Très bon,43906,15 ans,733,Oui,Non,Bizerte,1
+27,Marié,0,Fonctionnaire,CDI,3147,12641,84 mois,Faible,47880,7 ans,729,Oui,Non,Sousse,0
+31,Marié,4,Fonctionnaire,CDD,2984,14905,24 mois,Faible,70862,2 ans,1295,Oui,Non,Mahdia,0
+32,Veuf,2,Indépendant,CDD,1821,5018,12 mois,Excellent,10846,8 mois,681,Oui,Non,Gabès,1
+24,Divorcé,2,Indépendant,CDI,2267,18515,36 mois,Bon,78976,3 ans,563,Oui,Oui,Tunis,0
+32,Divorcé,2,Indépendant,Auto-entrepreneur,1757,14721,12 mois,Très bon,38046,3 ans,771,Oui,Non,Mahdia,1
+42,Marié,0,Cadre supérieur,Auto-entrepreneur,4091,13330,48 mois,Faible,69682,13 ans,1459,Oui,Non,Sfax,0
+54,Célibataire,3,Fonctionnaire,CDD,2240,19667,84 mois,Excellent,59844,10 ans,792,Oui,Non,Ariana,1
+45,Célibataire,2,Indépendant,Intérim,2066,7016,12 mois,Faible,14885,19 ans,1205,Oui,Non,Nabeul,0
+55,Célibataire,3,Employé,CDI,2933,6617,36 mois,Excellent,46721,11 ans,753,Oui,Non,Ariana,1
+51,Divorcé,1,Fonctionnaire,Auto-entrepreneur,2390,17428,72 mois,Excellent,15304,10 mois,1146,Oui,Non,Sfax,1
+24,Marié,2,Fonctionnaire,CDD,2374,9554,84 mois,Excellent,69340,10 mois,827,Oui,Non,Kairouan,1
+44,Marié,0,Employé,Auto-entrepreneur,2185,7415,24 mois,Moyen,63603,2 mois,1025,Oui,Non,Sousse,0
+41,Célibataire,2,Fonctionnaire,CDI,2316,18486,36 mois,Moyen,33300,11 ans,1559,Oui,Oui,Tunis,0
+52,Marié,4,Fonctionnaire,CDD,3323,15899,36 mois,Très bon,30981,20 ans,708,Oui,Oui,Ariana,0
+59,Divorcé,1,Indépendant,CDI,1300,3219,96 mois,Bon,12697,7 ans,898,Oui,Non,Kairouan,1
+26,Divorcé,1,Fonctionnaire,CDI,2401,13681,72 mois,Excellent,42470,5 ans,1363,Oui,Non,Sousse,1
+26,Divorcé,2,Cadre supérieur,CDD,4059,5354,24 mois,Bon,54224,7 ans,1024,Oui,Non,Bizerte,1
+55,Marié,4,Cadre supérieur,Intérim,4172,7040,36 mois,Faible,16823,19 ans,1108,Oui,Non,Tunis,0
+25,Veuf,1,Indépendant,Auto-entrepreneur,2357,8871,60 mois,Bon,9357,18 ans,604,Oui,Oui,Monastir,0
+29,Marié,1,Fonctionnaire,CDD,3239,9752,84 mois,Excellent,11739,5 ans,967,Oui,Non,Nabeul,1
+24,Célibataire,1,Cadre supérieur,Auto-entrepreneur,3578,9514,12 mois,Excellent,37683,8 ans,959,Oui,Non,Bizerte,1
+27,Célibataire,2,Indépendant,CDI,2024,9412,96 mois,Très bon,79674,8 ans,1078,Oui,Non,Sfax,1
+40,Veuf,3,Employé,Auto-entrepreneur,2751,16650,96 mois,Bon,67029,11 ans,1040,Oui,Oui,Monastir,0
+24,Célibataire,1,Cadre supérieur,CDD,3434,5428,24 mois,Très bon,45912,15 ans,1518,Oui,Non,Sousse,1
+46,Célibataire,2,Employé,CDD,1876,14846,84 mois,Faible,28283,2 ans,689,Oui,Non,Tunis,0
+44,Célibataire,2,Fonctionnaire,Auto-entrepreneur,2814,10745,84 mois,Excellent,76175,10 ans,1218,Oui,Non,Ariana,1
+29,Veuf,2,Fonctionnaire,CDI,2951,5547,72 mois,Très bon,70415,12 ans,1003,Oui,Oui,Kairouan,0
+44,Veuf,3,Cadre supérieur,Intérim,3390,12061,60 mois,Moyen,8814,8 mois,1271,Oui,Oui,Ariana,0
+33,Célibataire,1,Indépendant,CDD,1220,6059,36 mois,Très bon,41609,15 ans,1043,Oui,Non,Mahdia,1
+47,Célibataire,3,Fonctionnaire,CDD,3043,5821,96 mois,Excellent,42977,3 ans,1267,Oui,Oui,Sfax,0
+43,Veuf,1,Indépendant,Auto-entrepreneur,2487,6818,36 mois,Faible,52738,20 ans,1201,Oui,Non,Gabès,0
+24,Célibataire,0,Cadre supérieur,Auto-entrepreneur,3600,2830,96 mois,Faible,66830,17 ans,828,Oui,Non,Kairouan,0
+60,Marié,1,Employé,CDI,2322,2651,12 mois,Bon,25520,15 ans,513,Oui,Oui,Gabès,0
+28,Divorcé,3,Employé,CDI,1823,13004,96 mois,Faible,56786,13 ans,685,Oui,Non,Kairouan,0
+29,Divorcé,3,Indépendant,Auto-entrepreneur,2233,10759,48 mois,Excellent,7006,12 ans,905,Oui,Non,Tunis,1
+53,Marié,4,Fonctionnaire,CDI,3131,11765,36 mois,Moyen,78863,8 mois,1264,Oui,Non,Sousse,0
+33,Marié,0,Fonctionnaire,Intérim,2421,4257,60 mois,Très bon,79508,15 ans,1062,Oui,Non,Mahdia,1
+22,Divorcé,3,Indépendant,Intérim,1570,2797,60 mois,Moyen,59257,2 ans,1259,Oui,Oui,Mahdia,0
+46,Célibataire,1,Employé,Intérim,1613,14378,96 mois,Bon,55232,19 ans,663,Oui,Non,Tunis,1
+34,Marié,3,Cadre supérieur,Intérim,4102,6520,84 mois,Faible,23199,17 ans,910,Oui,Non,Kairouan,0
+31,Marié,2,Indépendant,Auto-entrepreneur,2422,9867,72 mois,Moyen,21795,0 ans,1151,Oui,Non,Kairouan,0
+36,Divorcé,0,Cadre supérieur,CDD,3614,19607,96 mois,Excellent,39678,0 ans,1489,Oui,Non,Sfax,1
+41,Marié,1,Cadre supérieur,Auto-entrepreneur,4208,7415,60 mois,Moyen,41195,8 ans,1255,Oui,Non,Bizerte,0
+25,Veuf,3,Indépendant,Auto-entrepreneur,1582,9902,60 mois,Bon,44709,14 ans,644,Oui,Non,Ariana,1
+53,Divorcé,0,Fonctionnaire,Intérim,2301,10243,96 mois,Faible,79361,0 ans,972,Oui,Oui,Monastir,0
+54,Célibataire,3,Cadre supérieur,CDI,4067,15039,24 mois,Faible,67312,0 ans,908,Oui,Oui,Sousse,0
+34,Marié,0,Indépendant,CDD,2155,18258,24 mois,Très bon,63824,17 ans,1488,Oui,Oui,Tunis,0
+54,Célibataire,2,Indépendant,Intérim,2031,14523,72 mois,Faible,20537,5 ans,1218,Oui,Oui,Sfax,0
+47,Marié,0,Indépendant,Auto-entrepreneur,1384,1299,60 mois,Bon,7387,19 ans,1105,Oui,Oui,Kairouan,0
+24,Veuf,1,Employé,CDI,2859,10942,84 mois,Très bon,38803,3 ans,941,Oui,Non,Kairouan,1
+58,Marié,2,Indépendant,CDD,1618,14759,36 mois,Bon,10650,16 ans,1233,Oui,Non,Tunis,1
+29,Veuf,2,Cadre supérieur,CDI,3135,18272,36 mois,Faible,58866,3 ans,641,Oui,Non,Tunis,0
+41,Célibataire,2,Fonctionnaire,Auto-entrepreneur,2771,9952,12 mois,Faible,63734,11 ans,872,Oui,Non,Mahdia,0
+56,Célibataire,3,Cadre supérieur,CDI,3519,11606,12 mois,Moyen,32333,6 ans,1366,Oui,Non,Nabeul,0
+22,Divorcé,0,Cadre supérieur,CDI,4444,4227,36 mois,Moyen,67405,6 ans,1446,Oui,Oui,Tunis,0
+40,Célibataire,0,Indépendant,CDI,1271,13388,72 mois,Excellent,17556,8 ans,1143,Oui,Oui,Sousse,0
+35,Veuf,2,Employé,CDI,2260,9779,84 mois,Moyen,70090,12 ans,1538,Oui,Non,Tunis,0
+42,Divorcé,0,Cadre supérieur,CDD,4402,11337,96 mois,Faible,72045,9 mois,1464,Oui,Non,Tunis,0
+45,Divorcé,1,Cadre supérieur,Auto-entrepreneur,3883,16440,48 mois,Bon,25711,1 ans,1566,Oui,Non,Sfax,1
+38,Marié,0,Indépendant,Auto-entrepreneur,1291,4883,12 mois,Excellent,25556,3 mois,611,Oui,Non,Kairouan,1
+37,Célibataire,1,Employé,CDD,2834,10388,24 mois,Excellent,56357,18 ans,1554,Oui,Oui,Kairouan,0
+36,Divorcé,0,Fonctionnaire,CDD,3102,19578,24 mois,Très bon,30703,2 mois,651,Oui,Non,Mahdia,1
+24,Marié,0,Fonctionnaire,Intérim,3319,11052,72 mois,Faible,12752,6 ans,1298,Oui,Non,Mahdia,0
+45,Marié,2,Indépendant,CDI,1961,16110,84 mois,Très bon,36758,16 ans,1074,Oui,Oui,Bizerte,0
+30,Célibataire,4,Indépendant,Auto-entrepreneur,2003,12755,12 mois,Excellent,65269,20 ans,1441,Oui,Non,Gabès,1
+39,Veuf,4,Employé,CDD,2938,12575,96 mois,Faible,40284,18 ans,1470,Oui,Oui,Nabeul,0
+25,Marié,3,Fonctionnaire,CDD,2632,10066,36 mois,Très bon,31588,7 mois,585,Oui,Non,Bizerte,1
+31,Veuf,2,Employé,Intérim,1380,10305,36 mois,Bon,12702,2 mois,788,Oui,Non,Monastir,1
+52,Divorcé,2,Cadre supérieur,CDD,3647,18097,36 mois,Très bon,57918,19 ans,1336,Oui,Oui,Tunis,0
+55,Divorcé,2,Fonctionnaire,Intérim,3354,2720,12 mois,Excellent,56196,11 ans,1173,Oui,Non,Gabès,1
+22,Marié,1,Employé,Intérim,2041,14000,96 mois,Moyen,13135,0 ans,1062,Oui,Non,Sfax,0
+34,Célibataire,4,Employé,CDD,2504,6441,60 mois,Faible,41317,3 ans,718,Oui,Oui,Nabeul,0
+43,Célibataire,1,Cadre supérieur,CDD,3018,1061,96 mois,Moyen,53718,7 mois,869,Oui,Non,Sfax,0
+54,Veuf,1,Cadre supérieur,Auto-entrepreneur,3871,3318,60 mois,Bon,14169,2 ans,1551,Oui,Non,Sousse,1
+60,Divorcé,4,Employé,Auto-entrepreneur,1295,13979,24 mois,Très bon,5722,6 ans,1452,Oui,Non,Gabès,1
+25,Marié,2,Employé,CDI,1600,6743,36 mois,Moyen,16920,19 ans,714,Oui,Non,Sousse,0
+52,Marié,2,Indépendant,Auto-entrepreneur,1883,13310,72 mois,Moyen,49549,12 ans,940,Oui,Non,Monastir,0
+25,Marié,2,Indépendant,Auto-entrepreneur,2349,1601,36 mois,Moyen,36079,8 ans,1485,Oui,Non,Sfax,0
+37,Célibataire,2,Employé,Auto-entrepreneur,1227,14215,24 mois,Excellent,25582,10 ans,1365,Oui,Non,Bizerte,1
+47,Veuf,2,Indépendant,Intérim,1628,14587,60 mois,Moyen,70865,3 ans,1230,Oui,Oui,Ariana,0
+53,Divorcé,3,Employé,Auto-entrepreneur,2073,6960,48 mois,Excellent,11881,10 ans,766,Oui,Non,Tunis,1
+59,Veuf,0,Employé,Auto-entrepreneur,1652,11718,60 mois,Bon,69576,18 ans,685,Oui,Oui,Sfax,0
+27,Veuf,4,Fonctionnaire,Auto-entrepreneur,2861,10393,12 mois,Très bon,14412,8 mois,592,Oui,Non,Monastir,1
+44,Célibataire,4,Fonctionnaire,Intérim,2231,2357,84 mois,Moyen,73509,5 ans,1024,Oui,Oui,Kairouan,0
+29,Veuf,3,Indépendant,Intérim,1681,11470,84 mois,Faible,70324,14 ans,833,Oui,Non,Tunis,0
+40,Marié,2,Fonctionnaire,Intérim,2651,18027,48 mois,Très bon,20998,3 ans,1561,Oui,Non,Mahdia,1
+59,Veuf,4,Fonctionnaire,CDI,2802,17762,24 mois,Faible,43602,4 ans,664,Oui,Non,Bizerte,0
+29,Divorcé,0,Cadre supérieur,CDI,3455,17545,72 mois,Faible,40351,8 mois,1103,Oui,Non,Kairouan,0
+56,Célibataire,2,Cadre supérieur,CDD,3165,8932,36 mois,Excellent,26827,14 ans,1411,Oui,Non,Tunis,1
+28,Célibataire,1,Indépendant,Intérim,1252,6230,72 mois,Moyen,43195,7 mois,1318,Oui,Non,Tunis,0
+53,Marié,3,Fonctionnaire,CDI,3468,17206,36 mois,Très bon,71378,17 ans,598,Oui,Oui,Kairouan,0
+41,Divorcé,1,Cadre supérieur,Intérim,4198,8060,96 mois,Moyen,30345,0 ans,533,Oui,Non,Gabès,0
+57,Célibataire,4,Indépendant,CDD,2395,14866,48 mois,Excellent,10917,15 ans,1579,Oui,Non,Sfax,1
+35,Divorcé,3,Fonctionnaire,Auto-entrepreneur,2672,12032,72 mois,Excellent,5782,2 ans,1551,Oui,Non,Nabeul,1
+53,Célibataire,3,Cadre supérieur,CDD,3183,1871,12 mois,Faible,31001,10 ans,1513,Oui,Non,Ariana,0
+32,Veuf,0,Employé,Intérim,2592,18501,72 mois,Excellent,44717,4 mois,1052,Oui,Non,Monastir,1
+31,Veuf,1,Cadre supérieur,CDD,4013,19633,72 mois,Excellent,36642,20 ans,717,Oui,Non,Gabès,1
+52,Divorcé,0,Employé,CDI,2076,17589,72 mois,Bon,55031,8 mois,1307,Oui,Non,Ariana,1
+58,Divorcé,1,Fonctionnaire,Auto-entrepreneur,2726,8169,60 mois,Excellent,42945,1 ans,853,Oui,Non,Bizerte,1
+32,Célibataire,0,Employé,CDI,2667,2483,60 mois,Bon,67705,16 ans,916,Oui,Non,Kairouan,1
+47,Divorcé,2,Indépendant,Auto-entrepreneur,1971,15237,36 mois,Faible,54748,7 ans,1362,Oui,Non,Sousse,0
+58,Célibataire,3,Fonctionnaire,CDI,2890,576,48 mois,Moyen,71276,1 ans,1510,Oui,Oui,Nabeul,0
+58,Veuf,0,Fonctionnaire,Auto-entrepreneur,2579,1280,12 mois,Faible,36355,4 ans,1582,Oui,Oui,Mahdia,0
+27,Veuf,4,Employé,CDI,1726,14245,60 mois,Moyen,65501,6 ans,948,Oui,Non,Bizerte,0
+60,Divorcé,2,Indépendant,Auto-entrepreneur,1253,3611,12 mois,Bon,61481,1 ans,758,Oui,Non,Mahdia,1
+34,Célibataire,3,Indépendant,CDD,2267,4391,48 mois,Excellent,75212,6 mois,875,Oui,Oui,Kairouan,0
+50,Célibataire,1,Fonctionnaire,Auto-entrepreneur,2382,2066,12 mois,Moyen,12819,18 ans,697,Oui,Non,Tunis,0
+48,Marié,0,Employé,CDD,2555,13492,72 mois,Bon,42236,17 ans,1463,Oui,Oui,Nabeul,0
+59,Divorcé,3,Fonctionnaire,CDD,3149,15869,48 mois,Bon,68876,6 ans,1407,Oui,Non,Mahdia,1
+60,Divorcé,0,Fonctionnaire,Auto-entrepreneur,2325,5726,48 mois,Excellent,19564,20 ans,599,Oui,Non,Tunis,1
+42,Divorcé,3,Cadre supérieur,CDD,3413,2933,48 mois,Bon,52219,11 ans,1510,Oui,Non,Tunis,1
+53,Veuf,3,Indépendant,CDI,1706,5016,84 mois,Faible,62461,11 ans,966,Oui,Non,Nabeul,0
+36,Divorcé,0,Employé,Intérim,1531,17003,96 mois,Moyen,38900,1 ans,1103,Oui,Non,Nabeul,0
+30,Marié,1,Cadre supérieur,Intérim,3529,13847,12 mois,Excellent,61762,6 mois,931,Oui,Non,Monastir,1
+24,Veuf,3,Employé,Auto-entrepreneur,1373,2907,12 mois,Excellent,42649,4 ans,569,Oui,Non,Bizerte,1
+48,Divorcé,3,Fonctionnaire,Auto-entrepreneur,2446,19944,84 mois,Faible,17891,14 ans,1487,Oui,Oui,Mahdia,0
+38,Célibataire,4,Fonctionnaire,CDI,2699,6248,48 mois,Très bon,17069,4 ans,500,Oui,Non,Gabès,1
+54,Célibataire,3,Indépendant,CDD,1825,19338,24 mois,Excellent,41688,6 mois,854,Oui,Non,Ariana,1
+29,Divorcé,2,Employé,CDI,1700,2616,48 mois,Excellent,47441,10 ans,902,Oui,Oui,Bizerte,0
+56,Célibataire,3,Indépendant,Auto-entrepreneur,1984,12849,36 mois,Moyen,52323,3 mois,1420,Oui,Non,Kairouan,0
+29,Marié,2,Indépendant,CDD,1290,1274,36 mois,Bon,65909,3 ans,1083,Oui,Oui,Bizerte,0
+32,Marié,2,Employé,CDD,1261,12783,60 mois,Faible,58012,2 ans,1195,Oui,Non,Nabeul,0
+37,Célibataire,1,Fonctionnaire,Auto-entrepreneur,2370,18295,72 mois,Moyen,17011,10 ans,839,Oui,Non,Bizerte,0
+41,Veuf,2,Indépendant,Auto-entrepreneur,1203,7459,48 mois,Faible,12726,5 ans,1519,Oui,Non,Mahdia,0
+34,Célibataire,1,Cadre supérieur,CDI,3608,1667,96 mois,Moyen,16061,10 ans,1033,Oui,Non,Nabeul,0
+52,Divorcé,0,Cadre supérieur,CDI,3768,14004,60 mois,Moyen,27032,1 ans,612,Oui,Non,Bizerte,0
+50,Divorcé,4,Indépendant,CDD,1686,9874,60 mois,Faible,45441,6 mois,1358,Oui,Non,Bizerte,0
+49,Marié,0,Employé,Intérim,1995,5374,60 mois,Très bon,75680,18 ans,721,Oui,Non,Gabès,1
+34,Veuf,0,Employé,Auto-entrepreneur,1854,4477,12 mois,Très bon,23591,9 mois,1524,Oui,Non,Sfax,1
+41,Veuf,3,Fonctionnaire,Intérim,2874,12550,72 mois,Faible,43645,18 ans,1001,Oui,Oui,Nabeul,0
+23,Marié,0,Indépendant,Auto-entrepreneur,1650,12294,48 mois,Faible,42755,11 ans,1019,Oui,Non,Gabès,0
+42,Célibataire,0,Employé,CDD,2012,18949,96 mois,Moyen,44990,4 ans,905,Oui,Non,Tunis,0
+49,Célibataire,3,Indépendant,CDI,2306,10923,24 mois,Bon,58465,1 ans,1261,Oui,Oui,Sfax,0
+40,Divorcé,0,Fonctionnaire,Auto-entrepreneur,2260,9008,24 mois,Moyen,49129,5 mois,1528,Oui,Non,Tunis,0
+28,Divorcé,2,Employé,CDD,2540,1918,48 mois,Faible,73852,20 ans,1211,Oui,Non,Sousse,0
+24,Veuf,4,Fonctionnaire,CDI,2201,8066,24 mois,Bon,23343,17 ans,1119,Oui,Oui,Monastir,0
+44,Veuf,3,Fonctionnaire,Intérim,3132,15893,84 mois,Faible,59557,1 mois,1548,Oui,Oui,Sousse,0
+23,Marié,4,Cadre supérieur,Intérim,3219,16893,72 mois,Bon,16274,11 mois,1090,Oui,Non,Gabès,1
+23,Célibataire,2,Fonctionnaire,CDI,2955,1759,36 mois,Bon,56788,16 ans,1229,Oui,Non,Mahdia,1
+30,Divorcé,3,Cadre supérieur,Intérim,3260,17066,24 mois,Très bon,13531,18 ans,883,Oui,Non,Gabès,1
+47,Divorcé,2,Indépendant,CDI,1925,8528,36 mois,Moyen,71951,12 ans,602,Oui,Non,Nabeul,0
+25,Célibataire,4,Fonctionnaire,CDI,3000,15217,12 mois,Très bon,53247,6 ans,705,Oui,Non,Sfax,1
+22,Veuf,1,Cadre supérieur,CDD,3885,5215,48 mois,Excellent,38994,1 mois,1440,Oui,Oui,Nabeul,0
+50,Célibataire,4,Indépendant,CDI,1806,9359,96 mois,Excellent,75029,7 mois,844,Oui,Oui,Tunis,0
+26,Célibataire,2,Employé,Auto-entrepreneur,2927,5919,72 mois,Très bon,55141,16 ans,517,Oui,Non,Kairouan,1
+52,Célibataire,3,Cadre supérieur,CDD,3428,5678,72 mois,Excellent,44127,11 ans,1194,Oui,Oui,Sfax,0
+48,Veuf,3,Fonctionnaire,Intérim,3334,17741,48 mois,Excellent,20564,9 mois,1543,Oui,Non,Sousse,1
+49,Marié,0,Employé,CDD,1378,6384,96 mois,Très bon,9139,15 ans,1109,Oui,Oui,Bizerte,0
+33,Célibataire,4,Cadre supérieur,Auto-entrepreneur,4355,5719,96 mois,Excellent,15956,16 ans,1152,Oui,Non,Sfax,1
+37,Célibataire,4,Fonctionnaire,Intérim,3049,3498,84 mois,Bon,29901,0 ans,1544,Oui,Non,Kairouan,1
+52,Marié,2,Indépendant,Intérim,1337,8217,84 mois,Excellent,55981,18 ans,737,Oui,Non,Tunis,1
+53,Célibataire,1,Employé,CDD,2345,6271,72 mois,Bon,33412,19 ans,738,Oui,Non,Sfax,1
+53,Veuf,4,Cadre supérieur,CDI,3536,8666,96 mois,Moyen,65580,5 ans,1449,Oui,Non,Kairouan,0
+25,Marié,1,Fonctionnaire,Auto-entrepreneur,2516,8384,48 mois,Excellent,28194,0 ans,887,Oui,Non,Gabès,1
+43,Marié,0,Employé,Auto-entrepreneur,1516,10879,96 mois,Moyen,34387,19 ans,971,Oui,Non,Monastir,0
+42,Célibataire,3,Cadre supérieur,CDD,3929,11845,48 mois,Très bon,21275,6 ans,1357,Oui,Non,Kairouan,1
+40,Veuf,1,Employé,CDI,2610,10240,24 mois,Excellent,9325,2 mois,615,Oui,Non,Sousse,1
+47,Divorcé,1,Indépendant,Intérim,1460,12656,72 mois,Excellent,77143,9 ans,1118,Oui,Non,Nabeul,1
+51,Divorcé,0,Employé,Intérim,2519,10036,96 mois,Faible,36358,15 ans,501,Oui,Non,Monastir,0
+40,Veuf,2,Employé,Intérim,1536,5597,36 mois,Excellent,10111,11 ans,1591,Oui,Non,Gabès,1
+51,Veuf,1,Employé,CDD,2721,18850,36 mois,Très bon,13849,5 ans,1039,Oui,Non,Sousse,1
+23,Marié,1,Fonctionnaire,Intérim,3285,7539,36 mois,Très bon,77737,14 ans,1293,Oui,Non,Mahdia,1
+49,Divorcé,4,Fonctionnaire,Auto-entrepreneur,2449,11611,36 mois,Bon,71740,19 ans,975,Oui,Non,Sfax,1
+27,Veuf,3,Employé,Auto-entrepreneur,2323,7558,60 mois,Moyen,28528,2 mois,1289,Oui,Non,Tunis,0
+32,Divorcé,4,Employé,CDI,1882,6605,60 mois,Excellent,75389,7 ans,766,Oui,Non,Mahdia,1
+60,Marié,3,Employé,CDD,2754,19419,48 mois,Bon,59475,14 ans,777,Oui,Non,Gabès,1
+51,Marié,0,Fonctionnaire,Auto-entrepreneur,2827,11463,96 mois,Faible,11829,5 ans,1110,Oui,Non,Sfax,0
+49,Marié,2,Cadre supérieur,CDD,4307,12800,12 mois,Moyen,62440,11 ans,1491,Oui,Non,Ariana,0
+30,Marié,0,Indépendant,CDD,2396,2233,60 mois,Très bon,7307,9 ans,1549,Oui,Non,Bizerte,1
+42,Veuf,4,Indépendant,Auto-entrepreneur,2351,14601,84 mois,Moyen,40264,5 mois,1084,Oui,Non,Monastir,0
+41,Célibataire,3,Fonctionnaire,CDI,2500,13730,24 mois,Bon,24084,5 ans,817,Oui,Non,Bizerte,1
+44,Divorcé,4,Employé,CDD,1664,751,48 mois,Excellent,27259,9 ans,1568,Oui,Non,Gabès,1
+47,Veuf,1,Indépendant,CDI,2082,6264,36 mois,Excellent,62232,11 mois,1249,Oui,Non,Sousse,1
+33,Divorcé,4,Fonctionnaire,CDI,2812,2175,96 mois,Bon,41689,7 ans,1457,Oui,Non,Mahdia,1
+40,Marié,1,Cadre supérieur,CDD,3327,14538,84 mois,Excellent,13117,17 ans,959,Oui,Non,Ariana,1
+57,Marié,0,Indépendant,Intérim,2280,10368,96 mois,Bon,59138,16 ans,878,Oui,Non,Nabeul,1
+29,Veuf,4,Employé,Auto-entrepreneur,2049,858,12 mois,Très bon,68393,7 ans,926,Oui,Non,Sousse,1
+24,Veuf,3,Fonctionnaire,Intérim,2421,10907,12 mois,Moyen,50211,8 mois,1380,Oui,Non,Monastir,0
+42,Célibataire,1,Fonctionnaire,Intérim,2716,10663,72 mois,Très bon,44285,4 mois,907,Oui,Oui,Nabeul,0
+55,Marié,4,Fonctionnaire,CDD,3153,1062,60 mois,Moyen,52728,14 ans,1576,Oui,Non,Sfax,0
+57,Célibataire,4,Fonctionnaire,Auto-entrepreneur,2692,15261,24 mois,Bon,56830,20 ans,1123,Oui,Oui,Gabès,0
+25,Divorcé,0,Cadre supérieur,Auto-entrepreneur,4294,12111,24 mois,Très bon,28329,9 mois,1553,Oui,Non,Sousse,1
+44,Célibataire,2,Employé,CDD,1588,9628,24 mois,Excellent,38102,4 ans,758,Oui,Oui,Tunis,0
+45,Marié,0,Fonctionnaire,CDD,3191,18035,72 mois,Excellent,6877,4 mois,1434,Oui,Oui,Sfax,0
+24,Veuf,3,Employé,Intérim,1977,10182,72 mois,Très bon,54907,11 ans,776,Oui,Non,Monastir,1
+35,Veuf,2,Cadre supérieur,CDI,4033,14768,36 mois,Excellent,36091,8 mois,1574,Oui,Non,Gabès,1
+54,Veuf,1,Employé,CDI,1504,3099,84 mois,Moyen,44324,10 ans,1205,Oui,Non,Tunis,0
+59,Marié,2,Cadre supérieur,CDI,3780,4452,96 mois,Très bon,65362,11 ans,1010,Oui,Oui,Ariana,0
+58,Divorcé,2,Cadre supérieur,CDI,3461,11517,72 mois,Excellent,35523,19 ans,1189,Oui,Non,Gabès,1
+56,Divorcé,3,Fonctionnaire,Intérim,2296,5518,36 mois,Très bon,35694,18 ans,1251,Oui,Oui,Monastir,0
+29,Marié,2,Indépendant,Auto-entrepreneur,1629,1497,72 mois,Faible,42114,14 ans,507,Oui,Non,Sfax,0
+44,Veuf,2,Cadre supérieur,CDI,4424,14045,60 mois,Excellent,11597,7 ans,522,Oui,Non,Tunis,1
+57,Célibataire,4,Fonctionnaire,Intérim,2554,18143,72 mois,Bon,22466,17 ans,540,Oui,Non,Nabeul,1
+60,Marié,3,Fonctionnaire,Intérim,3059,13218,96 mois,Excellent,32720,15 ans,1219,Oui,Non,Nabeul,1
+58,Divorcé,0,Employé,Intérim,1987,6054,48 mois,Moyen,47111,7 mois,969,Oui,Non,Bizerte,0
+27,Marié,4,Employé,CDD,1286,3805,12 mois,Moyen,33960,14 ans,1014,Oui,Non,Kairouan,0
+30,Célibataire,0,Employé,Intérim,2117,14051,84 mois,Faible,34771,13 ans,1420,Oui,Oui,Ariana,0
+32,Divorcé,0,Indépendant,CDI,1370,3222,96 mois,Très bon,26355,4 mois,683,Oui,Non,Mahdia,1
+48,Célibataire,0,Employé,Intérim,1925,6030,84 mois,Excellent,8984,1 ans,1088,Oui,Non,Sousse,1
+27,Célibataire,1,Cadre supérieur,CDD,4238,14785,24 mois,Bon,62114,7 ans,996,Oui,Oui,Gabès,0
+43,Marié,4,Indépendant,Intérim,2299,12309,84 mois,Très bon,67894,3 mois,802,Oui,Non,Tunis,1
+46,Marié,2,Employé,CDD,1818,18106,60 mois,Faible,48116,3 ans,664,Oui,Oui,Bizerte,0
+40,Divorcé,3,Cadre supérieur,Intérim,3014,7875,24 mois,Faible,44513,11 ans,1114,Oui,Non,Gabès,0
+49,Célibataire,1,Fonctionnaire,CDD,2859,16836,96 mois,Faible,20016,0 ans,1283,Oui,Oui,Gabès,0
+60,Marié,4,Fonctionnaire,Auto-entrepreneur,2488,3702,72 mois,Excellent,11804,5 mois,1472,Oui,Non,Kairouan,1
+31,Veuf,2,Indépendant,Auto-entrepreneur,1957,10137,96 mois,Excellent,12992,8 mois,505,Oui,Oui,Gabès,0
+38,Marié,0,Indépendant,Intérim,1822,18955,72 mois,Faible,44416,9 mois,911,Oui,Non,Sousse,0
+51,Célibataire,3,Fonctionnaire,Intérim,2919,19690,60 mois,Bon,22857,17 ans,523,Oui,Non,Gabès,1
+54,Veuf,3,Fonctionnaire,CDD,3031,3291,96 mois,Bon,32041,18 ans,1299,Oui,Non,Bizerte,1
+28,Célibataire,4,Cadre supérieur,Intérim,3739,7353,72 mois,Excellent,10207,5 mois,1049,Oui,Non,Ariana,1
+45,Marié,1,Indépendant,CDD,1934,5290,12 mois,Excellent,70514,1 ans,821,Oui,Non,Mahdia,1
+45,Célibataire,1,Employé,CDD,1282,13736,36 mois,Bon,39469,10 ans,1085,Oui,Non,Gabès,1
+35,Marié,1,Cadre supérieur,Auto-entrepreneur,4449,15963,36 mois,Bon,72608,8 ans,1565,Oui,Non,Nabeul,1
+28,Marié,2,Indépendant,Auto-entrepreneur,1412,17594,36 mois,Bon,58278,9 ans,1216,Oui,Non,Nabeul,1
+53,Marié,1,Cadre supérieur,Auto-entrepreneur,3628,847,96 mois,Excellent,6858,3 mois,925,Oui,Oui,Sfax,0
+38,Marié,1,Employé,CDI,1221,5896,12 mois,Faible,25511,17 ans,814,Oui,Oui,Gabès,0
+40,Veuf,0,Fonctionnaire,Intérim,2396,17582,84 mois,Bon,17145,19 ans,1120,Oui,Non,Ariana,1
+26,Divorcé,1,Indépendant,CDI,2024,11202,36 mois,Bon,77617,17 ans,1327,Oui,Non,Tunis,1
+57,Marié,1,Fonctionnaire,CDD,3077,9863,72 mois,Excellent,32304,1 ans,1273,Oui,Non,Mahdia,1
+29,Divorcé,0,Indépendant,Auto-entrepreneur,1205,940,12 mois,Moyen,53864,13 ans,533,Oui,Oui,Tunis,0
+28,Marié,1,Employé,Intérim,2686,8553,72 mois,Bon,27081,4 ans,1203,Oui,Non,Sousse,1
+35,Divorcé,2,Cadre supérieur,Intérim,4302,12651,36 mois,Très bon,54354,4 ans,1144,Oui,Non,Kairouan,1
+30,Célibataire,4,Fonctionnaire,CDD,2555,1801,36 mois,Moyen,43898,3 ans,880,Oui,Non,Gabès,0
+38,Divorcé,3,Cadre supérieur,Auto-entrepreneur,4002,4863,48 mois,Excellent,54413,11 ans,645,Oui,Non,Ariana,1
+30,Célibataire,0,Employé,Intérim,2217,3595,96 mois,Très bon,65960,9 mois,1112,Oui,Non,Nabeul,1
+22,Veuf,2,Cadre supérieur,CDI,4331,19921,36 mois,Excellent,60409,6 ans,761,Oui,Non,Gabès,1
+39,Marié,1,Employé,CDD,2768,7759,72 mois,Faible,6293,19 ans,817,Oui,Non,Bizerte,0
+55,Célibataire,1,Employé,Auto-entrepreneur,2112,15725,84 mois,Faible,35502,16 ans,1142,Oui,Non,Kairouan,0
+32,Veuf,3,Fonctionnaire,CDD,2598,3211,72 mois,Bon,11712,0 ans,1357,Oui,Oui,Mahdia,0
+49,Veuf,1,Employé,CDD,1849,4379,84 mois,Faible,64964,20 ans,1231,Oui,Non,Ariana,0
+50,Célibataire,3,Cadre supérieur,CDD,4234,11711,60 mois,Très bon,12814,4 ans,1459,Oui,Oui,Gabès,0
+32,Divorcé,2,Employé,Auto-entrepreneur,2894,5696,60 mois,Excellent,22260,6 ans,700,Oui,Non,Gabès,1
+47,Divorcé,3,Cadre supérieur,CDD,3213,8520,96 mois,Faible,28074,10 ans,766,Oui,Non,Bizerte,0
+48,Célibataire,1,Cadre supérieur,Auto-entrepreneur,3037,3223,72 mois,Bon,17246,7 mois,1050,Oui,Oui,Nabeul,0
+58,Divorcé,1,Cadre supérieur,CDD,3272,11393,36 mois,Moyen,60380,4 mois,983,Oui,Non,Tunis,0
+53,Marié,2,Fonctionnaire,CDI,2437,19058,72 mois,Bon,25569,18 ans,603,Oui,Oui,Mahdia,0
+29,Marié,1,Fonctionnaire,Intérim,2322,16479,12 mois,Faible,61963,6 ans,1184,Oui,Non,Sousse,0
+52,Veuf,2,Employé,CDI,2157,5448,84 mois,Faible,74845,16 ans,1217,Oui,Non,Bizerte,0
+40,Célibataire,4,Employé,Auto-entrepreneur,1627,11117,12 mois,Moyen,21634,3 ans,536,Oui,Oui,Bizerte,0
+53,Divorcé,3,Employé,CDI,1367,2710,60 mois,Moyen,72018,17 ans,611,Oui,Non,Gabès,0
+52,Marié,3,Fonctionnaire,Intérim,2892,16037,12 mois,Excellent,29680,20 ans,845,Oui,Non,Kairouan,1
+51,Veuf,2,Employé,Intérim,2193,1435,24 mois,Excellent,59674,8 ans,862,Oui,Non,Sfax,1
+40,Marié,2,Cadre supérieur,CDI,3590,4444,72 mois,Excellent,54342,13 ans,1452,Oui,Non,Sousse,1
+39,Marié,1,Fonctionnaire,Auto-entrepreneur,2573,11325,96 mois,Bon,13906,15 ans,1331,Oui,Non,Gabès,1
+29,Célibataire,3,Cadre supérieur,CDI,3268,13806,12 mois,Bon,48425,0 ans,1330,Oui,Non,Sfax,1
+52,Célibataire,0,Indépendant,Auto-entrepreneur,1791,4614,36 mois,Bon,19756,5 ans,882,Oui,Oui,Nabeul,0
+33,Marié,4,Employé,Intérim,2080,1683,12 mois,Bon,18839,1 ans,1507,Oui,Non,Bizerte,1
+30,Veuf,2,Employé,CDI,1872,5200,60 mois,Très bon,44155,12 ans,1361,Oui,Oui,Bizerte,0
+33,Célibataire,4,Indépendant,CDD,2326,6211,12 mois,Moyen,66678,11 ans,1048,Oui,Non,Sousse,0
+55,Marié,1,Cadre supérieur,CDI,4435,19248,12 mois,Très bon,56516,11 mois,704,Oui,Non,Bizerte,1
+51,Divorcé,1,Employé,Intérim,2735,6139,60 mois,Faible,43105,0 ans,677,Oui,Oui,Monastir,0
+51,Marié,2,Indépendant,CDD,2316,3387,36 mois,Faible,34784,18 ans,1541,Oui,Non,Gabès,0
+28,Marié,4,Cadre supérieur,CDI,4295,15838,60 mois,Excellent,57853,2 mois,1418,Oui,Non,Nabeul,1
+46,Divorcé,4,Fonctionnaire,CDD,2721,5389,96 mois,Moyen,31342,1 ans,756,Oui,Non,Sfax,0
+55,Divorcé,2,Indépendant,Auto-entrepreneur,1523,2487,84 mois,Bon,16094,14 ans,608,Oui,Non,Nabeul,1
+26,Divorcé,0,Employé,CDD,2048,5634,48 mois,Très bon,46582,17 ans,1380,Oui,Non,Gabès,1
+36,Célibataire,3,Cadre supérieur,Auto-entrepreneur,3801,7396,36 mois,Faible,22837,16 ans,1576,Oui,Oui,Sfax,0
+53,Marié,3,Fonctionnaire,CDD,2663,15437,36 mois,Excellent,46257,5 ans,1566,Oui,Non,Tunis,1
+47,Veuf,2,Employé,Intérim,1704,4179,24 mois,Bon,37343,13 ans,887,Oui,Non,Mahdia,1
+37,Veuf,0,Employé,Auto-entrepreneur,2689,6056,96 mois,Bon,64420,19 ans,869,Oui,Non,Kairouan,1
+40,Marié,4,Employé,CDI,2197,2644,12 mois,Excellent,32618,20 ans,812,Oui,Non,Sfax,1
+22,Célibataire,0,Employé,Auto-entrepreneur,2978,6936,36 mois,Excellent,7752,18 ans,854,Oui,Non,Sousse,1
+26,Marié,3,Fonctionnaire,Auto-entrepreneur,2273,10449,48 mois,Moyen,69019,6 ans,1057,Oui,Non,Bizerte,0
+33,Marié,2,Cadre supérieur,CDI,3807,3842,12 mois,Très bon,28670,20 ans,543,Oui,Non,Ariana,1
+58,Veuf,4,Cadre supérieur,CDI,3535,829,72 mois,Faible,6279,9 mois,1597,Oui,Non,Sfax,0
+42,Divorcé,1,Fonctionnaire,Auto-entrepreneur,2362,12918,96 mois,Moyen,10809,6 mois,1314,Oui,Non,Kairouan,0
+58,Célibataire,3,Indépendant,Intérim,2169,1822,72 mois,Bon,5054,7 ans,955,Oui,Non,Monastir,1
+35,Célibataire,0,Cadre supérieur,CDI,3604,12396,24 mois,Faible,71266,2 mois,1496,Oui,Non,Sousse,0
+34,Divorcé,4,Indépendant,CDI,1219,13111,48 mois,Excellent,48576,5 mois,1115,Oui,Non,Tunis,1
+24,Marié,3,Cadre supérieur,Intérim,4173,8681,24 mois,Faible,5878,12 ans,1042,Oui,Non,Sfax,0
+45,Divorcé,1,Employé,Auto-entrepreneur,1429,18722,24 mois,Bon,48145,17 ans,903,Oui,Non,Kairouan,1
+26,Marié,2,Employé,Auto-entrepreneur,1953,18830,84 mois,Faible,69807,1 ans,1434,Oui,Non,Sousse,0
+31,Veuf,3,Cadre supérieur,CDI,3446,9794,72 mois,Moyen,29710,1 ans,1010,Oui,Non,Ariana,0
+46,Célibataire,2,Employé,CDI,2460,2123,96 mois,Excellent,47564,1 ans,776,Oui,Non,Sfax,1
+27,Veuf,2,Fonctionnaire,CDD,3098,10265,48 mois,Excellent,47464,14 ans,920,Oui,Oui,Ariana,0
+42,Marié,0,Employé,CDD,2307,17435,60 mois,Bon,10283,19 ans,1191,Oui,Non,Ariana,1
+55,Veuf,0,Cadre supérieur,CDD,4277,16685,36 mois,Faible,33648,7 mois,588,Oui,Non,Mahdia,0
+38,Marié,3,Fonctionnaire,CDD,3379,15976,24 mois,Faible,40199,10 ans,1330,Oui,Non,Tunis,0
+27,Marié,0,Indépendant,CDI,2303,14151,96 mois,Faible,53204,1 mois,1109,Oui,Non,Nabeul,0
+50,Marié,3,Employé,Auto-entrepreneur,1624,16846,24 mois,Bon,53221,10 ans,542,Oui,Non,Ariana,1
+60,Marié,2,Fonctionnaire,CDI,2527,3737,24 mois,Bon,32633,7 ans,1417,Oui,Non,Monastir,1
+34,Célibataire,1,Fonctionnaire,CDD,3108,7898,84 mois,Bon,20170,11 ans,1390,Oui,Non,Ariana,1
+54,Divorcé,2,Fonctionnaire,CDI,2243,9183,60 mois,Très bon,5789,4 ans,1448,Oui,Non,Mahdia,1
+53,Divorcé,1,Cadre supérieur,CDD,3348,9151,60 mois,Bon,38826,7 mois,1169,Oui,Oui,Sfax,0
+38,Marié,2,Fonctionnaire,Intérim,3006,17058,60 mois,Très bon,64611,20 ans,1146,Oui,Non,Sousse,1
+26,Célibataire,0,Fonctionnaire,CDI,2713,14769,24 mois,Très bon,7460,11 ans,1180,Oui,Non,Bizerte,1
+51,Célibataire,2,Fonctionnaire,CDI,3325,12081,72 mois,Bon,7234,7 ans,1511,Oui,Non,Kairouan,1
+22,Divorcé,0,Cadre supérieur,CDD,3677,9656,36 mois,Très bon,8958,10 ans,699,Oui,Non,Bizerte,1
+56,Célibataire,0,Indépendant,CDD,1276,11545,84 mois,Très bon,68885,11 mois,547,Oui,Non,Tunis,1
+45,Marié,2,Employé,CDI,2596,6363,12 mois,Excellent,76597,15 ans,748,Oui,Oui,Sousse,0
+30,Veuf,4,Indépendant,CDD,2409,8334,60 mois,Très bon,18792,7 ans,1428,Oui,Non,Ariana,1
+46,Divorcé,3,Employé,CDI,1329,1808,48 mois,Moyen,76600,13 ans,1000,Oui,Non,Ariana,0
+59,Célibataire,4,Fonctionnaire,CDI,3301,19375,60 mois,Bon,79647,7 ans,1053,Oui,Non,Ariana,1
+23,Veuf,3,Cadre supérieur,CDI,3104,2798,48 mois,Moyen,63924,8 mois,917,Oui,Non,Nabeul,0
+50,Veuf,2,Cadre supérieur,CDI,4158,16800,36 mois,Bon,31895,5 mois,691,Oui,Non,Tunis,1
+57,Marié,3,Indépendant,CDD,1778,10876,12 mois,Très bon,11343,6 ans,1077,Oui,Non,Gabès,1
+54,Marié,0,Cadre supérieur,Auto-entrepreneur,3048,8651,60 mois,Bon,35181,6 mois,616,Oui,Non,Bizerte,1
+24,Marié,2,Employé,CDI,1653,15975,36 mois,Bon,54883,13 ans,600,Oui,Non,Bizerte,1
+31,Marié,4,Cadre supérieur,Auto-entrepreneur,3070,10893,84 mois,Excellent,30456,10 ans,848,Oui,Oui,Bizerte,0
+47,Marié,3,Employé,Auto-entrepreneur,2255,16225,84 mois,Excellent,75652,8 ans,507,Oui,Non,Bizerte,1
+45,Divorcé,3,Cadre supérieur,CDI,4372,8146,84 mois,Excellent,35003,13 ans,1519,Oui,Oui,Tunis,0
+40,Marié,3,Employé,CDD,1464,19778,72 mois,Excellent,38512,5 mois,860,Oui,Oui,Mahdia,0
+53,Veuf,0,Indépendant,CDD,2083,5390,36 mois,Moyen,11412,5 ans,1270,Oui,Oui,Mahdia,0
+31,Divorcé,2,Indépendant,CDD,1964,9633,48 mois,Moyen,62573,1 ans,1072,Oui,Non,Monastir,0
+48,Veuf,2,Employé,CDI,2434,16558,48 mois,Très bon,28704,10 mois,754,Oui,Non,Bizerte,1
+56,Veuf,4,Cadre supérieur,CDD,4153,8780,96 mois,Faible,49063,9 ans,1139,Oui,Non,Tunis,0
+50,Marié,0,Fonctionnaire,CDD,3301,4094,36 mois,Très bon,49023,9 ans,1576,Oui,Oui,Tunis,0
+42,Divorcé,3,Fonctionnaire,CDD,2496,14186,48 mois,Faible,15106,3 ans,534,Oui,Non,Monastir,0
+30,Marié,4,Indépendant,Intérim,1524,18267,60 mois,Très bon,20272,9 ans,1355,Oui,Non,Nabeul,1
+32,Veuf,0,Indépendant,Intérim,2474,16482,84 mois,Excellent,71575,1 ans,732,Oui,Non,Mahdia,1
+53,Marié,1,Fonctionnaire,Intérim,3209,15688,24 mois,Bon,22706,2 ans,906,Oui,Oui,Nabeul,0
+42,Veuf,2,Indépendant,Auto-entrepreneur,1408,7085,24 mois,Faible,41586,0 ans,883,Oui,Non,Tunis,0
+36,Divorcé,3,Cadre supérieur,Intérim,3666,17117,84 mois,Excellent,26887,1 ans,1182,Oui,Non,Ariana,1
+52,Marié,0,Fonctionnaire,CDD,3134,3087,36 mois,Moyen,38363,6 ans,721,Oui,Non,Tunis,0
+60,Veuf,2,Indépendant,Auto-entrepreneur,1459,1878,12 mois,Moyen,7286,10 ans,1056,Oui,Oui,Monastir,0
+52,Marié,1,Cadre supérieur,Intérim,3914,15373,48 mois,Bon,41877,2 mois,936,Oui,Oui,Mahdia,0
+32,Célibataire,0,Indépendant,Intérim,1674,14328,72 mois,Excellent,39379,19 ans,1204,Oui,Non,Ariana,1
+59,Divorcé,4,Cadre supérieur,Intérim,3846,2066,84 mois,Faible,49999,1 ans,627,Oui,Non,Tunis,0
+57,Veuf,4,Indépendant,CDD,1784,8985,96 mois,Moyen,78059,11 ans,530,Oui,Oui,Sousse,0
+41,Marié,1,Fonctionnaire,Auto-entrepreneur,3406,16186,24 mois,Excellent,14651,1 mois,1045,Oui,Non,Monastir,1
+41,Veuf,3,Indépendant,CDD,2371,13783,36 mois,Excellent,66550,11 ans,679,Oui,Non,Sfax,1
+59,Marié,1,Employé,Auto-entrepreneur,2592,13859,12 mois,Moyen,26954,19 ans,1093,Oui,Non,Mahdia,0
+24,Célibataire,1,Cadre supérieur,CDI,3693,3928,48 mois,Bon,41698,12 ans,1559,Oui,Non,Kairouan,1
+56,Célibataire,4,Fonctionnaire,CDD,2351,15744,96 mois,Excellent,79771,9 ans,554,Oui,Non,Ariana,1
+35,Divorcé,3,Cadre supérieur,Auto-entrepreneur,4208,8758,24 mois,Faible,30057,11 ans,1041,Oui,Oui,Sousse,0
+40,Marié,3,Indépendant,Intérim,1541,17144,48 mois,Excellent,11723,11 mois,1164,Oui,Non,Monastir,1
+57,Veuf,2,Employé,CDD,2468,9662,36 mois,Très bon,50663,10 ans,678,Oui,Non,Bizerte,1
+25,Marié,2,Cadre supérieur,Auto-entrepreneur,4240,11677,24 mois,Faible,9991,7 mois,615,Oui,Non,Sousse,0
+25,Marié,3,Cadre supérieur,CDD,4255,9307,60 mois,Bon,42651,10 ans,1166,Oui,Oui,Gabès,0
+33,Divorcé,2,Employé,Intérim,1769,14414,84 mois,Très bon,71696,11 ans,1243,Oui,Non,Gabès,1
+33,Célibataire,2,Fonctionnaire,Auto-entrepreneur,2633,1100,12 mois,Excellent,56553,11 ans,734,Oui,Non,Gabès,1
+40,Marié,2,Fonctionnaire,CDD,2386,7241,48 mois,Bon,37266,2 ans,1147,Oui,Non,Ariana,1
+58,Marié,1,Employé,CDD,1772,16243,84 mois,Moyen,22510,8 mois,509,Oui,Oui,Sfax,0
+49,Marié,4,Indépendant,Auto-entrepreneur,1472,2425,96 mois,Faible,76087,12 ans,695,Oui,Non,Tunis,0
+48,Veuf,3,Cadre supérieur,Auto-entrepreneur,3910,6885,12 mois,Bon,27379,2 ans,834,Oui,Non,Bizerte,1
+51,Célibataire,4,Cadre supérieur,CDI,4234,3934,12 mois,Faible,51224,5 mois,1281,Oui,Non,Tunis,0
+38,Marié,1,Employé,Auto-entrepreneur,2347,12242,96 mois,Excellent,67526,4 mois,1227,Oui,Non,Kairouan,1
+57,Veuf,1,Fonctionnaire,CDI,2763,1273,84 mois,Excellent,39590,11 ans,1280,Oui,Non,Tunis,1
+57,Marié,1,Indépendant,Auto-entrepreneur,2475,2941,48 mois,Moyen,62023,9 mois,830,Oui,Non,Nabeul,0
+46,Veuf,1,Indépendant,CDI,1805,9477,96 mois,Très bon,19675,7 ans,1103,Oui,Oui,Sousse,0
+29,Célibataire,0,Fonctionnaire,CDI,2595,19546,24 mois,Moyen,44137,3 mois,1540,Oui,Non,Gabès,0
+40,Célibataire,0,Indépendant,CDD,1627,15985,36 mois,Excellent,41274,8 ans,864,Oui,Non,Monastir,1
+31,Divorcé,2,Indépendant,Intérim,1432,13448,96 mois,Bon,69270,17 ans,812,Oui,Non,Mahdia,1
+41,Marié,0,Fonctionnaire,Intérim,3039,15455,48 mois,Très bon,73479,10 ans,585,Oui,Non,Kairouan,1
+25,Célibataire,2,Cadre supérieur,Intérim,4410,11060,72 mois,Excellent,21547,2 ans,1061,Oui,Non,Sfax,1
+42,Marié,4,Employé,CDD,2297,2676,48 mois,Bon,43648,2 ans,632,Oui,Non,Nabeul,1
+25,Célibataire,0,Employé,CDI,1399,13238,96 mois,Excellent,52316,16 ans,1313,Oui,Non,Sfax,1
+59,Célibataire,0,Fonctionnaire,Intérim,2449,7174,84 mois,Moyen,24124,10 ans,1505,Oui,Non,Mahdia,0
+25,Divorcé,1,Employé,CDI,1822,2948,84 mois,Excellent,13874,6 mois,1074,Oui,Non,Sousse,1
+50,Marié,0,Indépendant,Intérim,2132,16337,72 mois,Moyen,42496,14 ans,920,Oui,Non,Bizerte,0
+54,Divorcé,3,Cadre supérieur,Intérim,3747,15395,60 mois,Excellent,13794,1 mois,1552,Oui,Non,Ariana,1
+34,Divorcé,0,Cadre supérieur,Intérim,4170,16495,24 mois,Excellent,63344,13 ans,1339,Oui,Non,Ariana,1
+49,Marié,4,Employé,CDI,1932,10318,60 mois,Bon,21062,9 ans,1200,Oui,Non,Gabès,1
+36,Veuf,4,Indépendant,Intérim,2155,17653,72 mois,Excellent,64573,3 mois,1251,Oui,Non,Gabès,1
+25,Célibataire,0,Cadre supérieur,CDD,4150,3283,36 mois,Moyen,17342,4 mois,1333,Oui,Non,Tunis,0
+51,Divorcé,3,Employé,Intérim,1228,14986,48 mois,Bon,23164,16 ans,1555,Oui,Oui,Monastir,0
+43,Divorcé,1,Cadre supérieur,CDI,4173,11724,12 mois,Bon,5861,10 ans,1237,Oui,Non,Sousse,1
+26,Veuf,2,Employé,Auto-entrepreneur,1619,10546,84 mois,Bon,11397,15 ans,1336,Oui,Non,Mahdia,1
+51,Marié,3,Fonctionnaire,CDD,2535,18182,12 mois,Excellent,31231,2 ans,1447,Oui,Non,Sousse,1
+59,Célibataire,3,Fonctionnaire,Auto-entrepreneur,2757,1767,96 mois,Très bon,61935,2 mois,1468,Oui,Non,Mahdia,1
+32,Célibataire,2,Fonctionnaire,Auto-entrepreneur,2315,7935,36 mois,Excellent,51364,8 mois,630,Oui,Non,Nabeul,1
+60,Marié,2,Indépendant,CDI,1698,11309,24 mois,Très bon,44876,8 ans,1399,Oui,Non,Ariana,1
+31,Marié,4,Fonctionnaire,Intérim,2790,14098,36 mois,Excellent,79493,4 mois,1045,Oui,Non,Tunis,1
+53,Veuf,4,Indépendant,CDD,2138,4374,84 mois,Bon,49518,6 mois,707,Oui,Non,Kairouan,1
+37,Célibataire,3,Cadre supérieur,CDI,3613,4667,12 mois,Faible,51102,4 ans,547,Oui,Non,Monastir,0
+28,Veuf,3,Fonctionnaire,CDI,3032,5828,84 mois,Moyen,63072,6 mois,655,Oui,Non,Nabeul,0
+35,Marié,1,Indépendant,Intérim,1818,13245,60 mois,Bon,59631,10 ans,1546,Oui,Oui,Sousse,0
+31,Divorcé,0,Indépendant,Auto-entrepreneur,1851,14690,36 mois,Faible,70251,2 ans,504,Oui,Non,Kairouan,0
+28,Divorcé,3,Cadre supérieur,CDD,3978,9773,84 mois,Faible,60849,14 ans,1432,Oui,Oui,Nabeul,0
+59,Divorcé,2,Cadre supérieur,CDD,3131,13045,84 mois,Moyen,20024,10 ans,1182,Oui,Non,Bizerte,0
+55,Célibataire,4,Employé,Auto-entrepreneur,1372,1595,24 mois,Bon,41821,2 mois,1153,Oui,Non,Ariana,1
+56,Veuf,2,Indépendant,CDI,2073,7574,36 mois,Très bon,26170,11 ans,1247,Oui,Non,Sousse,1
+25,Marié,4,Indépendant,CDD,1202,6413,72 mois,Bon,30677,0 ans,1108,Oui,Non,Bizerte,1
+59,Veuf,3,Fonctionnaire,CDI,2921,10893,96 mois,Moyen,44903,18 ans,600,Oui,Non,Mahdia,0
+60,Célibataire,3,Cadre supérieur,CDI,4054,13144,60 mois,Moyen,20092,13 ans,1407,Oui,Non,Sousse,0
+37,Marié,1,Cadre supérieur,CDD,4005,3599,48 mois,Faible,32589,8 mois,1354,Oui,Non,Kairouan,0
+60,Célibataire,2,Fonctionnaire,CDI,3254,12936,72 mois,Excellent,21406,15 ans,1369,Oui,Non,Ariana,1
+46,Divorcé,4,Employé,Intérim,2373,4719,96 mois,Excellent,71356,10 ans,505,Oui,Non,Mahdia,1
+32,Marié,1,Employé,CDI,2760,10518,48 mois,Moyen,37365,15 ans,1368,Oui,Oui,Tunis,0
+40,Marié,0,Employé,CDI,2399,6501,72 mois,Bon,21908,4 ans,1137,Oui,Non,Ariana,1
+54,Veuf,4,Employé,CDI,2158,1749,36 mois,Excellent,50265,15 ans,870,Oui,Non,Monastir,1
+29,Marié,0,Cadre supérieur,CDD,4000,9433,36 mois,Moyen,41897,4 mois,580,Oui,Oui,Sfax,0
+34,Divorcé,2,Cadre supérieur,CDD,4330,14459,60 mois,Faible,63253,13 ans,801,Oui,Non,Mahdia,0
+37,Divorcé,2,Indépendant,Intérim,2180,10047,24 mois,Excellent,52993,20 ans,521,Oui,Non,Nabeul,1
+48,Marié,3,Cadre supérieur,Intérim,3701,18197,36 mois,Moyen,37115,1 ans,963,Oui,Oui,Kairouan,0
+29,Divorcé,4,Cadre supérieur,Intérim,3552,4714,60 mois,Excellent,20671,13 ans,1244,Oui,Oui,Mahdia,0
+47,Célibataire,2,Employé,Intérim,2521,15044,84 mois,Faible,53704,16 ans,1352,Oui,Non,Sousse,0
+31,Veuf,0,Indépendant,CDI,1445,13715,36 mois,Faible,50854,6 ans,1160,Oui,Non,Monastir,0
+41,Marié,0,Fonctionnaire,CDI,2785,15093,96 mois,Bon,17181,16 ans,964,Oui,Non,Tunis,1
+44,Marié,3,Fonctionnaire,Auto-entrepreneur,2486,15783,36 mois,Très bon,25881,5 ans,1077,Oui,Non,Tunis,1
+32,Célibataire,4,Fonctionnaire,CDD,2960,18346,36 mois,Très bon,65873,9 ans,1362,Oui,Non,Monastir,1
+49,Divorcé,4,Cadre supérieur,Auto-entrepreneur,4219,9023,12 mois,Moyen,71236,1 mois,1158,Oui,Non,Monastir,0
+54,Divorcé,2,Employé,Auto-entrepreneur,2998,7945,36 mois,Très bon,13994,14 ans,1525,Oui,Non,Sfax,1
+56,Marié,1,Indépendant,CDD,1419,11546,72 mois,Faible,38059,11 mois,1595,Oui,Non,Gabès,0
+41,Divorcé,4,Fonctionnaire,CDI,3110,13079,36 mois,Moyen,66574,14 ans,1016,Oui,Non,Ariana,0
+33,Célibataire,4,Cadre supérieur,CDD,3193,1645,96 mois,Bon,36609,2 ans,1473,Oui,Non,Kairouan,1
+53,Célibataire,0,Cadre supérieur,Auto-entrepreneur,3914,10091,72 mois,Très bon,57686,17 ans,951,Oui,Non,Sousse,1
+49,Veuf,4,Employé,CDI,2829,3541,72 mois,Excellent,60866,16 ans,1550,Oui,Oui,Kairouan,0
+24,Marié,3,Employé,CDD,2311,2514,84 mois,Très bon,70284,4 mois,605,Oui,Oui,Tunis,0
+22,Célibataire,0,Fonctionnaire,CDI,2559,1058,36 mois,Faible,68723,7 mois,778,Oui,Non,Sousse,0
+43,Marié,1,Employé,Intérim,1879,19196,96 mois,Bon,49667,6 mois,852,Oui,Non,Tunis,1
+50,Veuf,3,Fonctionnaire,Intérim,2304,3133,24 mois,Bon,41642,8 mois,904,Oui,Non,Bizerte,1
+31,Divorcé,2,Indépendant,CDI,1792,8625,96 mois,Excellent,54483,13 ans,1557,Oui,Non,Bizerte,1
+31,Célibataire,4,Fonctionnaire,Intérim,2617,6301,60 mois,Faible,23402,2 ans,932,Oui,Non,Kairouan,0
+22,Célibataire,1,Indépendant,CDI,1984,11564,96 mois,Faible,57806,11 mois,624,Oui,Non,Sfax,0
+55,Marié,4,Fonctionnaire,Auto-entrepreneur,3229,9810,12 mois,Moyen,24879,9 mois,1205,Oui,Non,Sfax,0
+55,Divorcé,2,Employé,CDD,1244,7296,48 mois,Excellent,66262,4 mois,1038,Oui,Non,Nabeul,1
+29,Divorcé,4,Fonctionnaire,CDD,2288,4003,96 mois,Excellent,60614,4 ans,815,Oui,Non,Ariana,1
+26,Veuf,1,Employé,Intérim,2663,2724,12 mois,Bon,73163,1 ans,692,Oui,Non,Kairouan,1
+55,Divorcé,0,Employé,CDD,1217,9340,72 mois,Bon,56251,8 ans,555,Oui,Non,Sousse,1
+52,Veuf,3,Cadre supérieur,Intérim,3467,7469,36 mois,Faible,58304,18 ans,1196,Oui,Non,Gabès,0
+38,Divorcé,1,Cadre supérieur,CDD,4286,5912,12 mois,Excellent,59120,16 ans,1007,Oui,Non,Bizerte,1
+29,Marié,2,Cadre supérieur,CDD,3997,10783,96 mois,Excellent,25594,11 ans,656,Oui,Non,Bizerte,1
+30,Célibataire,2,Cadre supérieur,Intérim,3938,17451,60 mois,Moyen,22664,10 ans,1118,Oui,Non,Monastir,0
+37,Divorcé,0,Cadre supérieur,CDI,3303,1187,36 mois,Excellent,60950,1 ans,1462,Oui,Non,Gabès,1
+50,Divorcé,2,Indépendant,Intérim,2078,12245,48 mois,Faible,54623,0 ans,917,Oui,Oui,Tunis,0
+28,Marié,2,Employé,Intérim,2383,10253,24 mois,Très bon,24621,7 ans,1432,Oui,Non,Kairouan,1
+23,Marié,3,Fonctionnaire,Intérim,3041,18049,12 mois,Très bon,63502,14 ans,1199,Oui,Non,Sfax,1
+28,Marié,3,Cadre supérieur,Auto-entrepreneur,3048,8994,36 mois,Faible,71474,16 ans,924,Oui,Non,Monastir,0
+48,Célibataire,4,Indépendant,Intérim,2022,9858,48 mois,Moyen,56019,19 ans,1223,Oui,Non,Ariana,0
+36,Marié,3,Indépendant,CDI,1402,8352,48 mois,Excellent,75543,20 ans,597,Oui,Non,Mahdia,1
+52,Divorcé,4,Fonctionnaire,Intérim,3136,10118,60 mois,Bon,64035,6 ans,505,Oui,Non,Gabès,1
+58,Veuf,4,Cadre supérieur,Intérim,3992,16241,72 mois,Bon,51961,8 ans,1077,Oui,Non,Nabeul,1
+53,Célibataire,0,Cadre supérieur,Intérim,4093,574,96 mois,Très bon,61630,1 ans,869,Oui,Non,Nabeul,1
+55,Veuf,2,Cadre supérieur,CDD,4214,6629,12 mois,Faible,39113,1 mois,677,Oui,Non,Bizerte,0
+34,Divorcé,4,Indépendant,Auto-entrepreneur,1263,12559,36 mois,Bon,76966,19 ans,942,Oui,Non,Ariana,1
+47,Divorcé,4,Employé,CDI,1964,16677,36 mois,Moyen,62831,6 mois,766,Oui,Non,Kairouan,0
+40,Célibataire,2,Employé,Intérim,2951,16530,24 mois,Faible,45217,19 ans,1255,Oui,Non,Ariana,0
+60,Veuf,1,Cadre supérieur,Auto-entrepreneur,4096,707,24 mois,Bon,37922,18 ans,1545,Oui,Non,Sousse,1
+25,Marié,3,Cadre supérieur,Auto-entrepreneur,3939,10948,96 mois,Faible,79408,5 ans,512,Oui,Oui,Tunis,0
+46,Célibataire,4,Fonctionnaire,Intérim,2646,4220,84 mois,Bon,19004,8 ans,975,Oui,Non,Nabeul,1
+34,Veuf,3,Employé,Intérim,1528,2790,72 mois,Très bon,22985,16 ans,1257,Oui,Oui,Sfax,0
+34,Divorcé,1,Fonctionnaire,CDD,2946,11606,84 mois,Excellent,31347,8 mois,525,Oui,Non,Sousse,1
+38,Veuf,2,Indépendant,Auto-entrepreneur,1253,17463,60 mois,Très bon,43305,0 ans,1162,Oui,Non,Tunis,1
+52,Divorcé,0,Employé,Intérim,2565,16536,96 mois,Très bon,79695,0 ans,1559,Oui,Non,Monastir,1
+50,Marié,0,Cadre supérieur,Intérim,4031,6914,96 mois,Faible,19789,4 ans,882,Oui,Non,Monastir,0
+29,Célibataire,3,Indépendant,Auto-entrepreneur,1414,10781,96 mois,Faible,25441,10 ans,1066,Oui,Non,Bizerte,0
+44,Marié,0,Indépendant,CDD,2222,19364,48 mois,Moyen,20188,5 ans,1423,Oui,Non,Gabès,0
+46,Marié,1,Employé,CDI,2803,11931,36 mois,Excellent,32471,15 ans,596,Oui,Oui,Tunis,0
+50,Célibataire,2,Cadre supérieur,CDI,4157,1373,12 mois,Bon,65254,9 ans,1240,Oui,Non,Nabeul,1
+29,Célibataire,2,Employé,CDD,2102,10891,24 mois,Très bon,57871,2 ans,782,Oui,Non,Mahdia,1
+25,Marié,4,Fonctionnaire,CDI,2916,14302,12 mois,Excellent,10736,16 ans,1188,Oui,Non,Sfax,1
+31,Divorcé,0,Cadre supérieur,CDI,3829,12084,12 mois,Bon,53399,6 mois,1116,Oui,Non,Mahdia,1
+50,Célibataire,1,Fonctionnaire,CDD,2965,18921,60 mois,Excellent,62791,8 ans,708,Oui,Non,Monastir,1
+57,Divorcé,2,Cadre supérieur,CDD,4029,6079,24 mois,Bon,34893,13 ans,606,Oui,Non,Kairouan,1
+56,Marié,2,Indépendant,CDI,1550,6455,96 mois,Bon,46204,18 ans,1545,Oui,Oui,Sfax,0
+55,Célibataire,3,Cadre supérieur,Auto-entrepreneur,3734,14256,24 mois,Très bon,50208,4 mois,805,Oui,Non,Kairouan,1
+29,Célibataire,3,Indépendant,CDD,1223,14403,84 mois,Faible,35505,20 ans,1027,Oui,Non,Nabeul,0
+22,Veuf,1,Fonctionnaire,CDD,2505,9343,84 mois,Très bon,26102,1 mois,1582,Oui,Non,Nabeul,1
+45,Veuf,3,Employé,CDD,2460,11250,84 mois,Faible,72068,10 mois,1547,Oui,Non,Nabeul,0
+27,Célibataire,0,Employé,Auto-entrepreneur,2343,14259,72 mois,Moyen,18451,6 ans,1360,Oui,Oui,Bizerte,0
+25,Célibataire,0,Indépendant,CDI,1423,11990,12 mois,Très bon,62259,5 ans,1465,Oui,Non,Sousse,1
+37,Marié,3,Indépendant,CDD,1243,4770,72 mois,Bon,51062,18 ans,500,Oui,Non,Mahdia,1
+34,Veuf,1,Indépendant,Intérim,2049,1128,48 mois,Très bon,30859,12 ans,1592,Oui,Non,Tunis,1
+49,Célibataire,0,Indépendant,Intérim,2402,1389,84 mois,Très bon,34638,9 ans,1049,Oui,Non,Kairouan,1
+23,Célibataire,2,Employé,Intérim,2545,3861,48 mois,Faible,43275,2 ans,736,Oui,Non,Tunis,0
+53,Célibataire,2,Employé,CDD,1588,3844,96 mois,Excellent,71343,7 mois,1585,Oui,Non,Tunis,1
+40,Veuf,2,Fonctionnaire,CDI,3333,6521,72 mois,Bon,53090,1 ans,707,Oui,Non,Nabeul,1
+41,Marié,4,Cadre supérieur,CDD,3875,15652,48 mois,Bon,78430,20 ans,760,Oui,Non,Ariana,1
+25,Marié,0,Fonctionnaire,Auto-entrepreneur,3323,17124,36 mois,Excellent,5193,9 mois,1205,Oui,Non,Ariana,1
+53,Veuf,2,Cadre supérieur,CDD,3462,4358,48 mois,Moyen,66646,5 mois,1582,Oui,Non,Sfax,0
+47,Marié,3,Employé,CDI,1752,1878,36 mois,Très bon,64393,15 ans,539,Oui,Non,Ariana,1
+50,Célibataire,1,Cadre supérieur,CDD,4270,3920,12 mois,Moyen,17442,5 mois,1574,Oui,Non,Bizerte,0
+32,Marié,3,Indépendant,CDD,1662,10052,84 mois,Bon,60538,12 ans,1268,Oui,Non,Ariana,1
+33,Divorcé,4,Fonctionnaire,CDD,3345,5338,96 mois,Faible,61298,7 ans,741,Oui,Non,Mahdia,0
+27,Veuf,2,Indépendant,CDD,2342,8640,12 mois,Faible,74781,0 ans,589,Oui,Non,Bizerte,0
+23,Divorcé,3,Indépendant,CDD,1844,10084,48 mois,Excellent,17166,10 ans,764,Oui,Non,Mahdia,1
+23,Marié,2,Indépendant,CDI,2439,15482,24 mois,Très bon,7413,20 ans,1158,Oui,Non,Kairouan,1
+49,Marié,0,Cadre supérieur,Auto-entrepreneur,3380,2119,72 mois,Très bon,13971,3 ans,1315,Oui,Non,Tunis,1
+55,Marié,1,Employé,CDD,2050,3907,96 mois,Moyen,72433,3 mois,895,Oui,Oui,Kairouan,0
+59,Marié,3,Cadre supérieur,Intérim,3061,17655,12 mois,Faible,77873,1 ans,1402,Oui,Non,Mahdia,0
+48,Célibataire,1,Employé,Intérim,1774,2411,96 mois,Faible,30729,1 ans,746,Oui,Non,Gabès,0
+53,Marié,3,Cadre supérieur,CDI,4174,19393,36 mois,Très bon,12873,6 ans,1356,Oui,Non,Nabeul,1
+24,Divorcé,0,Indépendant,Intérim,2057,4228,24 mois,Bon,30411,17 ans,1158,Oui,Non,Gabès,1
+50,Veuf,4,Fonctionnaire,Auto-entrepreneur,3330,9910,60 mois,Excellent,55511,8 mois,674,Oui,Non,Gabès,1
+24,Veuf,1,Indépendant,CDI,2267,10783,48 mois,Moyen,24033,13 ans,1447,Oui,Non,Mahdia,0
+44,Veuf,3,Cadre supérieur,CDI,3899,6398,24 mois,Excellent,6950,17 ans,1239,Oui,Non,Tunis,1
+30,Veuf,2,Employé,CDD,1250,10102,96 mois,Bon,60512,9 ans,696,Oui,Oui,Bizerte,0
+54,Marié,2,Employé,CDD,2227,14162,84 mois,Moyen,44910,8 mois,1258,Oui,Non,Sousse,0
+45,Veuf,0,Fonctionnaire,CDD,3338,15402,36 mois,Excellent,48826,14 ans,909,Oui,Non,Nabeul,1
+54,Marié,3,Cadre supérieur,Intérim,3104,6685,84 mois,Bon,43570,12 ans,1344,Oui,Non,Sfax,1
+40,Divorcé,2,Employé,CDD,1631,17710,24 mois,Très bon,31902,11 ans,1335,Oui,Oui,Monastir,0
+52,Veuf,1,Indépendant,Auto-entrepreneur,1846,3166,96 mois,Faible,41523,8 mois,1066,Oui,Non,Sousse,0
+36,Marié,0,Cadre supérieur,Auto-entrepreneur,3991,3061,84 mois,Bon,16615,16 ans,1487,Oui,Non,Sfax,1
+57,Célibataire,2,Cadre supérieur,CDI,4350,7509,36 mois,Très bon,46923,15 ans,1563,Oui,Non,Tunis,1
+23,Marié,2,Employé,CDD,1288,13064,72 mois,Faible,39697,13 ans,1303,Oui,Oui,Bizerte,0
+37,Célibataire,1,Indépendant,CDI,1855,2143,36 mois,Excellent,17050,8 ans,1558,Oui,Oui,Sousse,0
+46,Divorcé,1,Employé,Intérim,2959,2741,60 mois,Faible,27734,9 mois,757,Oui,Non,Bizerte,0
+52,Marié,2,Fonctionnaire,CDI,2714,3066,12 mois,Faible,23821,12 ans,591,Oui,Non,Tunis,0
+40,Veuf,4,Indépendant,CDI,2030,11892,24 mois,Très bon,30502,2 mois,901,Oui,Non,Tunis,1
+47,Marié,0,Employé,Auto-entrepreneur,1267,6986,84 mois,Très bon,26844,15 ans,924,Oui,Non,Nabeul,1
+27,Marié,2,Indépendant,CDI,1444,18025,60 mois,Excellent,64910,19 ans,1023,Oui,Non,Bizerte,1
+46,Divorcé,3,Fonctionnaire,CDI,2831,12778,24 mois,Moyen,50518,0 ans,828,Oui,Non,Ariana,0
+45,Veuf,3,Fonctionnaire,CDI,3201,16158,12 mois,Très bon,48923,7 mois,1182,Oui,Oui,Gabès,0
+48,Célibataire,0,Cadre supérieur,CDI,4294,1597,60 mois,Excellent,56963,12 ans,801,Oui,Non,Monastir,1
+34,Divorcé,1,Cadre supérieur,Intérim,3494,7077,24 mois,Excellent,36695,1 ans,1492,Oui,Non,Sfax,1
+34,Célibataire,3,Indépendant,CDI,1299,9670,84 mois,Excellent,18972,16 ans,1237,Oui,Non,Sousse,1
+46,Marié,0,Indépendant,CDI,1660,11344,96 mois,Très bon,27445,4 mois,1155,Oui,Non,Monastir,1
+52,Célibataire,4,Fonctionnaire,Intérim,2848,11315,48 mois,Très bon,20800,13 ans,1267,Oui,Non,Kairouan,1
+31,Divorcé,0,Indépendant,Auto-entrepreneur,1371,17296,96 mois,Excellent,43108,3 ans,808,Oui,Oui,Monastir,0
+41,Veuf,3,Cadre supérieur,Intérim,3455,7432,48 mois,Faible,31751,0 ans,1244,Oui,Oui,Monastir,0
+31,Célibataire,0,Cadre supérieur,CDD,3673,12414,60 mois,Très bon,13439,3 mois,1100,Oui,Non,Tunis,1
+53,Marié,1,Indépendant,CDI,1754,4792,12 mois,Moyen,62663,4 mois,1488,Oui,Non,Bizerte,0
+23,Marié,3,Employé,CDI,1973,15464,84 mois,Moyen,27175,6 mois,1586,Oui,Oui,Bizerte,0
+32,Célibataire,0,Cadre supérieur,Auto-entrepreneur,3786,10740,96 mois,Faible,79452,6 ans,1003,Oui,Non,Tunis,0
+46,Veuf,0,Indépendant,CDI,2117,5033,24 mois,Très bon,76858,17 ans,693,Oui,Non,Bizerte,1
+55,Célibataire,1,Fonctionnaire,Intérim,3156,9685,72 mois,Bon,66915,5 ans,515,Oui,Non,Sousse,1
+52,Célibataire,4,Fonctionnaire,Auto-entrepreneur,2924,18351,24 mois,Faible,65745,19 ans,1464,Oui,Non,Gabès,0
+40,Divorcé,2,Employé,CDD,1838,9753,48 mois,Bon,64807,12 ans,1141,Oui,Non,Mahdia,1
+24,Célibataire,0,Employé,Intérim,2165,14606,36 mois,Faible,79275,15 ans,1532,Oui,Non,Gabès,0
+58,Veuf,1,Fonctionnaire,CDD,2817,1243,48 mois,Très bon,68313,9 ans,1464,Oui,Oui,Nabeul,0
+58,Célibataire,2,Fonctionnaire,Intérim,2529,5642,84 mois,Moyen,39088,4 mois,1187,Oui,Non,Sousse,0
+34,Divorcé,3,Fonctionnaire,Auto-entrepreneur,2460,3291,60 mois,Moyen,11933,17 ans,1168,Oui,Non,Ariana,0
+51,Célibataire,0,Employé,Auto-entrepreneur,2887,9306,12 mois,Bon,70854,9 ans,1402,Oui,Non,Nabeul,1
+44,Divorcé,2,Cadre supérieur,Intérim,3515,5089,12 mois,Excellent,45511,9 mois,963,Oui,Non,Tunis,1
+37,Veuf,3,Fonctionnaire,Intérim,3151,5141,84 mois,Excellent,17933,13 ans,996,Oui,Non,Gabès,1
+39,Célibataire,3,Cadre supérieur,Auto-entrepreneur,3798,9876,60 mois,Excellent,31738,14 ans,510,Oui,Non,Nabeul,1
+42,Marié,2,Cadre supérieur,CDD,4147,14498,24 mois,Bon,17255,2 ans,900,Oui,Oui,Sfax,0
+42,Veuf,1,Indépendant,Auto-entrepreneur,1949,5226,96 mois,Moyen,16589,7 ans,850,Oui,Non,Mahdia,0
+60,Marié,3,Indépendant,Auto-entrepreneur,2011,17186,24 mois,Faible,53859,1 ans,1581,Oui,Non,Ariana,0
+49,Marié,4,Employé,Auto-entrepreneur,1529,17334,84 mois,Excellent,42234,17 ans,1295,Oui,Non,Sousse,1
+42,Divorcé,3,Fonctionnaire,Intérim,3211,16902,12 mois,Faible,22155,0 ans,1242,Oui,Non,Sfax,0
+51,Célibataire,4,Cadre supérieur,CDI,4266,17031,48 mois,Moyen,60545,17 ans,1211,Oui,Non,Kairouan,0
+25,Marié,2,Indépendant,CDI,2438,9770,36 mois,Bon,45291,14 ans,1433,Oui,Non,Gabès,1
+38,Veuf,0,Cadre supérieur,Auto-entrepreneur,3942,15344,84 mois,Faible,61135,11 ans,777,Oui,Non,Sousse,0
+53,Veuf,1,Cadre supérieur,CDD,3914,17558,60 mois,Faible,23025,7 mois,776,Oui,Non,Mahdia,0
+37,Marié,2,Employé,Auto-entrepreneur,2952,10836,24 mois,Très bon,57161,9 ans,1017,Oui,Non,Sousse,1
+36,Veuf,2,Indépendant,Intérim,2335,698,84 mois,Très bon,16516,7 ans,1051,Oui,Oui,Monastir,0
+35,Divorcé,1,Cadre supérieur,Auto-entrepreneur,3069,13805,36 mois,Très bon,12230,14 ans,1341,Oui,Non,Bizerte,1
+56,Veuf,1,Cadre supérieur,Intérim,4019,11544,60 mois,Excellent,68228,0 ans,751,Oui,Non,Gabès,1
+51,Veuf,0,Fonctionnaire,Auto-entrepreneur,2919,14772,24 mois,Moyen,7735,6 ans,1456,Oui,Oui,Bizerte,0
+35,Veuf,3,Cadre supérieur,Auto-entrepreneur,4468,1592,96 mois,Très bon,68653,1 ans,705,Oui,Non,Kairouan,1
+57,Marié,4,Employé,CDD,2780,5405,60 mois,Très bon,32377,2 ans,580,Oui,Oui,Sousse,0
+24,Divorcé,1,Fonctionnaire,Auto-entrepreneur,3202,15919,12 mois,Excellent,31422,16 ans,976,Oui,Non,Bizerte,1
+49,Divorcé,0,Employé,Intérim,1271,12707,96 mois,Bon,11861,9 mois,1004,Oui,Non,Nabeul,1
+44,Veuf,4,Fonctionnaire,CDD,2274,5267,60 mois,Très bon,21159,0 ans,1401,Oui,Non,Mahdia,1
+24,Veuf,2,Indépendant,CDD,1815,9210,36 mois,Faible,66855,2 ans,654,Oui,Oui,Gabès,0
+48,Divorcé,1,Cadre supérieur,CDI,3141,12157,36 mois,Moyen,38707,8 ans,818,Oui,Non,Gabès,0
+29,Marié,1,Employé,Auto-entrepreneur,2648,1131,96 mois,Faible,5517,0 ans,740,Oui,Non,Nabeul,0
+24,Divorcé,0,Indépendant,CDD,2422,12109,96 mois,Excellent,38735,16 ans,1322,Oui,Oui,Sfax,0
+59,Célibataire,4,Indépendant,CDI,1501,2829,36 mois,Excellent,57960,6 ans,1055,Oui,Non,Sfax,1
+39,Célibataire,0,Employé,Intérim,2829,593,72 mois,Très bon,19552,3 mois,1255,Oui,Non,Gabès,1
+48,Célibataire,3,Cadre supérieur,Intérim,4289,11380,84 mois,Bon,34790,7 ans,678,Oui,Non,Bizerte,1
+59,Marié,2,Indépendant,CDD,1838,19912,48 mois,Faible,11757,11 mois,1528,Oui,Non,Sfax,0
+48,Célibataire,4,Cadre supérieur,CDI,3093,8244,96 mois,Excellent,33672,12 ans,1070,Oui,Oui,Monastir,0
+28,Veuf,0,Employé,CDI,2450,18182,12 mois,Faible,10559,15 ans,1597,Oui,Non,Mahdia,0
+51,Marié,2,Cadre supérieur,Intérim,3461,11666,24 mois,Moyen,22274,8 ans,1275,Oui,Non,Sousse,0
+39,Divorcé,1,Fonctionnaire,Auto-entrepreneur,2352,1408,96 mois,Bon,72860,6 ans,876,Oui,Non,Tunis,1
+55,Divorcé,3,Fonctionnaire,Intérim,2214,3543,12 mois,Excellent,36019,10 ans,817,Oui,Non,Nabeul,1
+46,Divorcé,1,Indépendant,CDI,1848,6273,96 mois,Très bon,72476,7 ans,769,Oui,Non,Sousse,1
+50,Divorcé,4,Cadre supérieur,CDI,4308,10116,72 mois,Bon,40831,2 mois,1493,Oui,Non,Ariana,1
+40,Divorcé,4,Indépendant,CDD,2203,10676,48 mois,Bon,64655,14 ans,693,Oui,Non,Mahdia,1
+53,Marié,1,Fonctionnaire,CDI,3009,4008,36 mois,Excellent,12958,5 ans,1282,Oui,Non,Nabeul,1
+39,Célibataire,0,Fonctionnaire,Auto-entrepreneur,2535,1669,48 mois,Bon,21368,8 mois,984,Oui,Non,Mahdia,1
+53,Veuf,0,Cadre supérieur,Auto-entrepreneur,3972,19857,84 mois,Moyen,30939,10 mois,518,Oui,Non,Ariana,0
+37,Marié,4,Indépendant,Intérim,1839,6100,48 mois,Faible,51511,15 ans,508,Oui,Oui,Gabès,0
+51,Divorcé,3,Indépendant,CDI,1254,11004,96 mois,Faible,10655,5 ans,520,Oui,Non,Sfax,0
+29,Veuf,1,Indépendant,Intérim,2425,11933,12 mois,Excellent,76680,16 ans,1272,Oui,Non,Kairouan,1
+50,Divorcé,0,Employé,CDD,1639,14215,48 mois,Bon,70741,7 mois,1001,Oui,Non,Sousse,1
+29,Célibataire,1,Employé,CDD,1379,19800,72 mois,Excellent,15371,10 ans,789,Oui,Non,Mahdia,1
+26,Divorcé,3,Cadre supérieur,CDI,3570,8160,12 mois,Moyen,66605,19 ans,668,Oui,Non,Sousse,0
+56,Célibataire,3,Fonctionnaire,Auto-entrepreneur,2349,1566,12 mois,Bon,42966,8 ans,877,Oui,Non,Sfax,1
+54,Divorcé,2,Indépendant,CDD,2131,12690,48 mois,Faible,78820,14 ans,731,Oui,Non,Sfax,0
+51,Célibataire,2,Cadre supérieur,CDI,3089,3543,84 mois,Bon,48249,5 ans,1564,Oui,Non,Monastir,1
+33,Marié,2,Indépendant,Intérim,1456,15072,12 mois,Très bon,31840,15 ans,1186,Oui,Oui,Mahdia,0
+45,Marié,1,Fonctionnaire,CDD,2590,16016,72 mois,Moyen,46567,15 ans,663,Oui,Non,Sfax,0
+55,Marié,4,Cadre supérieur,Auto-entrepreneur,3239,4754,96 mois,Bon,78513,5 mois,1412,Oui,Oui,Kairouan,0
+30,Veuf,4,Fonctionnaire,Auto-entrepreneur,3123,8414,60 mois,Moyen,10273,12 ans,507,Oui,Non,Sousse,0
+26,Célibataire,1,Fonctionnaire,CDD,3139,18690,36 mois,Excellent,75465,5 ans,888,Oui,Non,Tunis,1
+42,Marié,3,Indépendant,CDI,1305,1909,84 mois,Moyen,6528,8 ans,948,Oui,Oui,Tunis,0
+31,Marié,4,Employé,Auto-entrepreneur,2684,3438,84 mois,Excellent,38672,11 mois,1092,Oui,Non,Nabeul,1
+33,Célibataire,2,Fonctionnaire,CDD,2613,3390,60 mois,Moyen,21715,3 ans,822,Oui,Non,Sfax,0
+29,Divorcé,1,Employé,Intérim,1494,14428,72 mois,Excellent,9514,19 ans,1009,Oui,Non,Monastir,1
+43,Veuf,3,Fonctionnaire,Intérim,3079,6150,96 mois,Très bon,23227,19 ans,1291,Oui,Non,Nabeul,1
+57,Divorcé,1,Cadre supérieur,Intérim,3119,4815,36 mois,Bon,29596,11 mois,1112,Oui,Non,Sousse,1
+43,Célibataire,1,Indépendant,Intérim,2196,9962,84 mois,Bon,35489,4 mois,707,Oui,Non,Tunis,1
+49,Veuf,2,Cadre supérieur,CDD,3229,1023,48 mois,Faible,56907,7 ans,688,Oui,Oui,Tunis,0
+41,Veuf,1,Employé,CDI,1836,19012,84 mois,Très bon,76361,12 ans,1184,Oui,Non,Ariana,1
+24,Célibataire,0,Cadre supérieur,CDD,3545,10072,96 mois,Faible,19387,3 ans,1443,Oui,Non,Ariana,0
+38,Marié,3,Employé,CDI,1836,10240,60 mois,Excellent,59105,19 ans,1330,Oui,Non,Ariana,1
+53,Marié,1,Fonctionnaire,CDI,3032,4353,96 mois,Faible,65765,6 ans,586,Oui,Non,Sousse,0
+29,Veuf,3,Fonctionnaire,CDD,2586,6200,36 mois,Moyen,44629,20 ans,1411,Oui,Non,Ariana,0
+40,Divorcé,1,Fonctionnaire,Auto-entrepreneur,2985,10775,60 mois,Moyen,73062,7 mois,1245,Oui,Non,Monastir,0
+51,Divorcé,4,Fonctionnaire,CDI,2631,4330,48 mois,Faible,50242,7 mois,715,Oui,Non,Ariana,0
+39,Marié,3,Fonctionnaire,Auto-entrepreneur,2646,10436,84 mois,Bon,47515,17 ans,750,Oui,Non,Mahdia,1
+30,Célibataire,0,Employé,Intérim,2849,16432,24 mois,Moyen,63002,0 ans,868,Oui,Oui,Bizerte,0
+42,Marié,3,Employé,CDD,1722,4555,48 mois,Très bon,28917,2 ans,869,Oui,Non,Gabès,1
+36,Veuf,0,Indépendant,Auto-entrepreneur,1421,11245,96 mois,Bon,75358,16 ans,689,Oui,Non,Bizerte,1
+46,Divorcé,1,Fonctionnaire,Auto-entrepreneur,2393,12099,96 mois,Faible,72235,14 ans,1077,Oui,Non,Sousse,0
+43,Veuf,0,Cadre supérieur,CDD,3407,2341,12 mois,Très bon,52505,2 ans,1074,Oui,Non,Monastir,1
+49,Célibataire,3,Employé,CDI,1275,1102,36 mois,Très bon,26978,17 ans,1535,Oui,Non,Ariana,1
+40,Divorcé,0,Employé,Auto-entrepreneur,2368,9472,72 mois,Faible,64593,1 mois,1277,Oui,Non,Kairouan,0
+24,Marié,1,Fonctionnaire,Intérim,2253,2706,72 mois,Moyen,62847,2 ans,722,Oui,Non,Sfax,0
+56,Célibataire,2,Indépendant,Auto-entrepreneur,2264,1657,24 mois,Excellent,28972,8 ans,1096,Oui,Oui,Ariana,0
+43,Divorcé,2,Fonctionnaire,CDI,2892,12099,48 mois,Moyen,35824,7 ans,752,Oui,Non,Kairouan,0
+32,Célibataire,3,Employé,Auto-entrepreneur,1890,19607,96 mois,Excellent,48572,15 ans,643,Oui,Non,Nabeul,1
+46,Divorcé,0,Cadre supérieur,Intérim,3820,9528,36 mois,Faible,53876,20 ans,1351,Oui,Non,Sousse,0
+31,Célibataire,3,Employé,Auto-entrepreneur,2693,16238,72 mois,Très bon,17170,11 ans,633,Oui,Oui,Tunis,0
+33,Célibataire,0,Indépendant,CDD,1461,7735,24 mois,Très bon,37467,8 ans,726,Oui,Non,Ariana,1
+52,Célibataire,1,Cadre supérieur,CDD,3655,8591,72 mois,Bon,57995,7 ans,903,Oui,Non,Mahdia,1
+34,Veuf,0,Indépendant,CDD,1909,3231,36 mois,Bon,32297,0 ans,958,Oui,Oui,Mahdia,0
+56,Divorcé,2,Employé,Auto-entrepreneur,2964,9399,24 mois,Excellent,60464,14 ans,690,Oui,Non,Tunis,1
+29,Célibataire,3,Indépendant,CDD,1480,2751,96 mois,Bon,64601,6 ans,765,Oui,Non,Kairouan,1
+42,Marié,2,Cadre supérieur,CDI,4286,4423,48 mois,Faible,65395,5 mois,778,Oui,Oui,Gabès,0
+60,Marié,2,Fonctionnaire,Auto-entrepreneur,2279,19442,24 mois,Excellent,34606,11 mois,645,Oui,Oui,Nabeul,0
+46,Marié,1,Fonctionnaire,Intérim,2652,13740,48 mois,Très bon,11321,4 ans,1001,Oui,Oui,Bizerte,0
+22,Célibataire,2,Employé,CDD,2674,15366,36 mois,Excellent,43513,0 ans,1216,Oui,Non,Monastir,1
+34,Célibataire,3,Employé,Auto-entrepreneur,2574,1692,96 mois,Bon,78513,13 ans,904,Oui,Non,Sousse,1
+27,Célibataire,0,Indépendant,CDI,2046,12453,72 mois,Excellent,40517,0 ans,1334,Oui,Non,Bizerte,1
+23,Célibataire,2,Employé,Auto-entrepreneur,2137,5645,72 mois,Faible,69594,11 mois,1114,Oui,Non,Sfax,0
+26,Divorcé,0,Cadre supérieur,CDI,3678,8728,24 mois,Moyen,42460,17 ans,851,Oui,Oui,Gabès,0
+50,Marié,2,Employé,CDD,2253,17335,12 mois,Bon,43068,2 ans,649,Oui,Non,Nabeul,1
+45,Marié,1,Employé,Intérim,1842,12576,72 mois,Très bon,53036,11 ans,643,Oui,Oui,Tunis,0
+53,Veuf,2,Cadre supérieur,Auto-entrepreneur,3918,1890,36 mois,Faible,33747,18 ans,773,Oui,Non,Tunis,0
+58,Divorcé,0,Employé,CDD,2846,3958,96 mois,Très bon,43619,12 ans,1289,Oui,Non,Gabès,1
+23,Célibataire,2,Employé,Intérim,2027,8332,72 mois,Très bon,76829,4 ans,867,Oui,Non,Mahdia,1
+30,Veuf,4,Indépendant,Intérim,2295,17278,24 mois,Très bon,8401,6 ans,704,Oui,Oui,Ariana,0
+52,Veuf,4,Fonctionnaire,CDD,3452,5528,12 mois,Excellent,71273,16 ans,1053,Oui,Non,Tunis,1
+55,Marié,4,Cadre supérieur,CDI,4030,13550,24 mois,Faible,29983,9 ans,949,Oui,Non,Sfax,0
+25,Célibataire,0,Indépendant,CDD,2300,18572,24 mois,Très bon,24773,14 ans,1055,Oui,Non,Monastir,1
+49,Célibataire,4,Indépendant,CDD,1854,8684,24 mois,Faible,66020,11 ans,1378,Oui,Oui,Bizerte,0
+45,Divorcé,4,Employé,Intérim,1239,16958,60 mois,Faible,70713,16 ans,1387,Oui,Non,Kairouan,0
+51,Veuf,0,Indépendant,CDI,1411,14186,60 mois,Moyen,46962,20 ans,872,Oui,Oui,Sfax,0
+29,Divorcé,3,Cadre supérieur,Intérim,3039,3923,24 mois,Faible,37233,5 mois,647,Oui,Non,Kairouan,0
+50,Marié,4,Fonctionnaire,Auto-entrepreneur,2700,11855,24 mois,Moyen,9714,10 ans,727,Oui,Non,Nabeul,0
+58,Célibataire,3,Fonctionnaire,CDD,3358,2603,12 mois,Excellent,10842,11 ans,1100,Oui,Oui,Kairouan,0
+38,Célibataire,2,Fonctionnaire,Intérim,2577,11997,24 mois,Bon,56036,5 mois,512,Oui,Non,Monastir,1
+52,Marié,0,Cadre supérieur,Intérim,4352,18471,36 mois,Faible,58422,19 ans,1448,Oui,Non,Bizerte,0
+24,Marié,2,Employé,Auto-entrepreneur,1422,14079,12 mois,Faible,61079,15 ans,1320,Oui,Non,Mahdia,0
+34,Célibataire,3,Employé,Intérim,2058,11139,60 mois,Faible,40905,3 mois,690,Oui,Non,Sousse,0
+32,Divorcé,4,Employé,Intérim,1476,1461,84 mois,Faible,42571,9 ans,1471,Oui,Non,Ariana,0
+45,Marié,3,Fonctionnaire,Auto-entrepreneur,3369,5877,84 mois,Excellent,51745,18 ans,1233,Oui,Non,Ariana,1
+51,Veuf,4,Employé,Auto-entrepreneur,2690,6547,12 mois,Bon,49800,8 ans,1394,Oui,Non,Mahdia,1
+44,Divorcé,4,Employé,Intérim,2683,17206,24 mois,Bon,34458,8 mois,1032,Oui,Non,Bizerte,1
+30,Célibataire,3,Indépendant,Intérim,1262,11382,84 mois,Excellent,64301,17 ans,1231,Oui,Oui,Mahdia,0
+30,Célibataire,4,Fonctionnaire,CDI,3208,13585,36 mois,Moyen,74544,15 ans,917,Oui,Non,Monastir,0
+35,Marié,2,Fonctionnaire,CDD,3069,7536,12 mois,Bon,68881,14 ans,955,Oui,Non,Tunis,1
+57,Divorcé,4,Cadre supérieur,Intérim,3952,8560,96 mois,Excellent,73888,9 ans,1310,Oui,Non,Nabeul,1
+35,Marié,3,Employé,CDD,2346,8401,48 mois,Excellent,64937,7 mois,503,Oui,Non,Nabeul,1
+43,Veuf,3,Fonctionnaire,Intérim,2950,15679,12 mois,Bon,16919,19 ans,739,Oui,Non,Gabès,1
+60,Marié,4,Employé,CDD,2733,6170,60 mois,Bon,51861,10 mois,1292,Oui,Non,Kairouan,1
+24,Marié,1,Cadre supérieur,CDI,3842,7778,96 mois,Excellent,25132,2 ans,877,Oui,Oui,Mahdia,0
+22,Marié,4,Cadre supérieur,CDI,3403,13436,12 mois,Moyen,53692,4 mois,1257,Oui,Non,Sfax,0
+42,Divorcé,2,Indépendant,CDI,1456,15032,36 mois,Faible,7081,4 ans,1353,Oui,Non,Mahdia,0
+42,Divorcé,1,Fonctionnaire,Auto-entrepreneur,2663,623,96 mois,Excellent,31367,7 ans,1418,Oui,Non,Sfax,1
+40,Célibataire,1,Employé,CDD,2132,6322,36 mois,Moyen,8999,6 mois,1065,Oui,Oui,Nabeul,0
+59,Célibataire,2,Employé,CDI,2217,19816,60 mois,Bon,69745,4 ans,1557,Oui,Non,Kairouan,1
+35,Divorcé,0,Indépendant,Intérim,2251,14063,60 mois,Excellent,64653,4 ans,916,Oui,Non,Kairouan,1
+28,Célibataire,1,Fonctionnaire,Intérim,3443,504,48 mois,Moyen,31722,8 ans,878,Oui,Oui,Kairouan,0
+34,Veuf,0,Indépendant,CDI,2497,3908,12 mois,Excellent,73963,5 ans,1386,Oui,Non,Mahdia,1
+56,Divorcé,2,Cadre supérieur,CDD,3146,10499,36 mois,Faible,10148,6 ans,1364,Oui,Non,Nabeul,0
+39,Célibataire,2,Fonctionnaire,Auto-entrepreneur,2395,3773,96 mois,Moyen,79825,5 ans,1180,Oui,Non,Ariana,0
+54,Marié,1,Indépendant,Auto-entrepreneur,1654,4738,24 mois,Bon,68995,19 ans,1170,Oui,Non,Ariana,1
+23,Marié,0,Fonctionnaire,CDI,3268,5423,24 mois,Excellent,23304,8 ans,736,Oui,Non,Sfax,1
+51,Célibataire,3,Fonctionnaire,Intérim,2623,16708,96 mois,Bon,14312,11 ans,544,Oui,Non,Bizerte,1
+58,Divorcé,0,Fonctionnaire,Intérim,3117,2302,24 mois,Très bon,21873,15 ans,1493,Oui,Non,Bizerte,1
+31,Veuf,1,Employé,Intérim,1426,4487,24 mois,Très bon,45472,4 mois,640,Oui,Non,Monastir,1
+51,Divorcé,2,Cadre supérieur,Auto-entrepreneur,3929,17067,24 mois,Faible,68120,16 ans,732,Oui,Oui,Tunis,0
+38,Veuf,2,Fonctionnaire,Auto-entrepreneur,2912,10799,24 mois,Moyen,53823,6 ans,1312,Oui,Non,Monastir,0
+42,Veuf,2,Indépendant,CDD,1492,8993,24 mois,Bon,31086,17 ans,1187,Oui,Non,Bizerte,1
+44,Divorcé,0,Fonctionnaire,CDI,2885,17380,48 mois,Excellent,36770,19 ans,1041,Oui,Non,Nabeul,1
+60,Veuf,1,Cadre supérieur,CDI,4331,7613,24 mois,Faible,54975,11 ans,649,Oui,Non,Bizerte,0
+60,Célibataire,3,Indépendant,CDD,1416,8526,36 mois,Moyen,29071,11 ans,775,Oui,Oui,Sfax,0
+39,Divorcé,3,Employé,CDD,2390,9508,84 mois,Très bon,56737,2 mois,1010,Oui,Oui,Ariana,0
+56,Marié,0,Cadre supérieur,CDI,3751,13834,72 mois,Très bon,46692,15 ans,1369,Oui,Non,Tunis,1
+28,Célibataire,1,Cadre supérieur,Auto-entrepreneur,4489,4840,84 mois,Bon,77898,11 mois,708,Oui,Non,Sousse,1
+51,Célibataire,3,Fonctionnaire,Intérim,3476,9866,36 mois,Très bon,27343,1 mois,575,Oui,Non,Nabeul,1
+58,Célibataire,2,Cadre supérieur,Auto-entrepreneur,3802,18943,72 mois,Moyen,72436,4 ans,1138,Oui,Oui,Gabès,0
+53,Divorcé,1,Fonctionnaire,Auto-entrepreneur,3180,4009,60 mois,Faible,19667,8 ans,1100,Oui,Non,Ariana,0
+35,Veuf,0,Employé,Intérim,2807,17674,84 mois,Bon,78804,1 mois,1501,Oui,Non,Monastir,1
+29,Célibataire,4,Employé,Intérim,2785,13341,48 mois,Très bon,33586,3 ans,764,Oui,Non,Mahdia,1
+59,Veuf,3,Employé,CDD,1592,13210,96 mois,Très bon,55388,4 ans,613,Oui,Non,Nabeul,1
+45,Veuf,3,Indépendant,CDI,2019,7422,72 mois,Faible,10967,15 ans,1271,Oui,Non,Nabeul,0
+38,Célibataire,0,Indépendant,Auto-entrepreneur,2218,10077,36 mois,Bon,63007,11 mois,1599,Oui,Oui,Mahdia,0
+51,Divorcé,3,Employé,CDD,1522,4239,24 mois,Bon,33434,18 ans,1081,Oui,Non,Bizerte,1
+31,Marié,4,Indépendant,Intérim,1962,10608,60 mois,Excellent,29821,4 ans,691,Oui,Non,Monastir,1
+37,Veuf,1,Indépendant,CDD,1798,14621,60 mois,Faible,70420,13 ans,910,Oui,Non,Gabès,0
+48,Célibataire,3,Cadre supérieur,CDI,3559,4194,96 mois,Très bon,30037,2 mois,776,Oui,Oui,Gabès,0
+41,Divorcé,4,Indépendant,Auto-entrepreneur,1720,12557,96 mois,Très bon,6046,6 ans,1348,Oui,Non,Monastir,1
+54,Veuf,1,Employé,Auto-entrepreneur,1388,9300,24 mois,Très bon,20154,5 ans,748,Oui,Non,Gabès,1
+51,Marié,3,Employé,CDI,2017,4081,48 mois,Bon,33329,3 ans,959,Oui,Non,Sfax,1
+28,Divorcé,2,Cadre supérieur,Auto-entrepreneur,3458,3036,72 mois,Excellent,15052,20 ans,1598,Oui,Non,Sfax,1
+49,Célibataire,3,Fonctionnaire,CDD,2290,5698,12 mois,Excellent,63057,11 mois,870,Oui,Non,Gabès,1
+52,Marié,2,Fonctionnaire,CDI,3099,4953,60 mois,Très bon,18768,14 ans,1154,Oui,Non,Gabès,1
+46,Marié,1,Cadre supérieur,CDI,3190,12699,48 mois,Moyen,74558,6 ans,1264,Oui,Non,Mahdia,0
+30,Veuf,4,Fonctionnaire,Auto-entrepreneur,3419,13984,72 mois,Faible,78637,6 mois,1098,Oui,Non,Kairouan,0
+33,Célibataire,0,Fonctionnaire,CDD,3194,10477,60 mois,Bon,76971,9 ans,1297,Oui,Non,Bizerte,1
+31,Marié,3,Indépendant,CDI,1237,2205,48 mois,Bon,32307,8 ans,711,Oui,Non,Sfax,1
+32,Marié,2,Cadre supérieur,CDI,3755,5222,72 mois,Bon,71808,12 ans,564,Oui,Non,Ariana,1
+40,Veuf,1,Employé,Intérim,2785,8180,36 mois,Moyen,71216,9 mois,609,Oui,Non,Bizerte,0
+31,Célibataire,2,Fonctionnaire,CDD,3245,10214,96 mois,Très bon,24564,14 ans,1347,Oui,Non,Sousse,1
+53,Divorcé,4,Indépendant,CDI,1863,13015,60 mois,Très bon,74401,3 mois,1262,Oui,Non,Gabès,1
+53,Veuf,4,Employé,Auto-entrepreneur,1356,17200,24 mois,Très bon,50789,7 ans,653,Oui,Oui,Nabeul,0
+56,Marié,3,Fonctionnaire,Intérim,2953,19805,48 mois,Moyen,24159,18 ans,512,Oui,Non,Ariana,0
+37,Marié,2,Cadre supérieur,Auto-entrepreneur,4345,12571,12 mois,Très bon,17181,13 ans,741,Oui,Non,Sousse,1
+37,Divorcé,3,Cadre supérieur,CDD,3666,12271,24 mois,Moyen,9927,7 ans,1357,Oui,Non,Gabès,0
+43,Célibataire,3,Fonctionnaire,CDI,2906,16967,12 mois,Très bon,27637,8 mois,867,Oui,Non,Kairouan,1
+24,Veuf,4,Fonctionnaire,CDI,2567,8908,60 mois,Bon,77506,9 ans,858,Oui,Non,Ariana,1
+52,Marié,4,Indépendant,CDD,1528,10404,48 mois,Excellent,57617,0 ans,519,Oui,Oui,Monastir,0
+46,Célibataire,4,Cadre supérieur,CDD,4332,14514,84 mois,Bon,66775,6 ans,1400,Oui,Non,Gabès,1
+48,Divorcé,3,Employé,Auto-entrepreneur,1714,17322,72 mois,Moyen,32778,7 ans,1287,Oui,Non,Nabeul,0
+26,Marié,2,Employé,CDD,2831,16339,72 mois,Moyen,33287,1 ans,1178,Oui,Non,Sousse,0
+32,Marié,1,Fonctionnaire,Auto-entrepreneur,3272,10898,72 mois,Très bon,65425,6 mois,1077,Oui,Non,Ariana,1
+58,Divorcé,3,Cadre supérieur,CDI,4095,3789,60 mois,Bon,13114,7 ans,1077,Oui,Non,Bizerte,1
+26,Marié,1,Fonctionnaire,Auto-entrepreneur,2404,4351,60 mois,Bon,78220,6 ans,1045,Oui,Non,Sousse,1
+52,Marié,2,Indépendant,Intérim,1719,15291,24 mois,Bon,49281,17 ans,611,Oui,Non,Gabès,1
+39,Veuf,4,Employé,CDI,1517,17786,96 mois,Moyen,44196,11 ans,1302,Oui,Non,Kairouan,0
+58,Divorcé,0,Cadre supérieur,Intérim,3313,4965,36 mois,Moyen,50270,4 mois,1286,Oui,Non,Monastir,0
+36,Célibataire,1,Cadre supérieur,CDI,3955,17176,60 mois,Bon,29327,3 ans,1368,Oui,Non,Gabès,1
+56,Célibataire,1,Indépendant,Auto-entrepreneur,2183,19988,12 mois,Excellent,55293,9 mois,1538,Oui,Non,Ariana,1
+41,Marié,1,Indépendant,Auto-entrepreneur,2273,19634,12 mois,Bon,5476,6 mois,1540,Oui,Oui,Gabès,0
+52,Veuf,1,Employé,CDD,1895,10642,72 mois,Faible,75757,15 ans,960,Oui,Oui,Sfax,0
+26,Marié,1,Indépendant,Intérim,2317,13230,72 mois,Moyen,18945,10 ans,1374,Oui,Non,Kairouan,0
+44,Divorcé,2,Cadre supérieur,Intérim,3752,14538,48 mois,Bon,73546,11 mois,840,Oui,Non,Ariana,1
+59,Divorcé,3,Cadre supérieur,Auto-entrepreneur,3612,2769,36 mois,Bon,46011,1 mois,703,Oui,Non,Gabès,1
+37,Divorcé,4,Fonctionnaire,Intérim,3446,9026,60 mois,Très bon,17786,12 ans,1229,Oui,Non,Kairouan,1
+28,Divorcé,1,Indépendant,Intérim,2057,15618,84 mois,Bon,43841,5 ans,786,Oui,Non,Gabès,1
+41,Veuf,2,Cadre supérieur,Auto-entrepreneur,3096,15268,36 mois,Faible,16222,17 ans,997,Oui,Non,Sfax,0
+58,Veuf,1,Employé,Auto-entrepreneur,1215,4190,24 mois,Excellent,34040,8 ans,1139,Oui,Non,Tunis,1
+35,Veuf,0,Cadre supérieur,Intérim,4322,5976,60 mois,Faible,79546,8 mois,581,Oui,Non,Sfax,0
+29,Veuf,3,Employé,CDI,2577,604,72 mois,Excellent,33515,16 ans,1091,Oui,Non,Monastir,1
+26,Célibataire,3,Employé,Auto-entrepreneur,2225,7005,12 mois,Bon,40726,3 ans,949,Oui,Non,Gabès,1
+30,Divorcé,0,Employé,CDI,1978,2268,96 mois,Bon,44449,3 ans,787,Oui,Oui,Ariana,0
+30,Veuf,4,Cadre supérieur,Auto-entrepreneur,3896,9053,12 mois,Excellent,19559,20 ans,867,Oui,Non,Sfax,1
+32,Marié,0,Indépendant,Auto-entrepreneur,2491,18333,60 mois,Faible,47116,0 ans,1171,Oui,Non,Kairouan,0
+56,Divorcé,1,Employé,Intérim,1755,8247,72 mois,Très bon,34704,0 ans,612,Oui,Non,Sousse,1
+42,Veuf,4,Fonctionnaire,Auto-entrepreneur,3071,7783,72 mois,Très bon,40335,15 ans,600,Oui,Non,Ariana,1
+49,Célibataire,1,Indépendant,CDI,1533,15472,24 mois,Très bon,21654,17 ans,1248,Oui,Non,Mahdia,1
+34,Célibataire,2,Fonctionnaire,CDD,3091,11921,72 mois,Moyen,30069,14 ans,1373,Oui,Non,Tunis,0
+23,Marié,2,Fonctionnaire,Intérim,3138,17991,36 mois,Moyen,72441,7 ans,992,Oui,Non,Tunis,0
+42,Divorcé,4,Employé,CDI,2210,17992,12 mois,Excellent,54300,10 ans,1390,Oui,Oui,Sfax,0
+45,Veuf,1,Fonctionnaire,Intérim,2997,5646,48 mois,Bon,14770,3 ans,755,Oui,Non,Monastir,1
+50,Veuf,1,Employé,Auto-entrepreneur,1639,10573,72 mois,Excellent,50188,20 ans,1314,Oui,Non,Sfax,1
+26,Veuf,4,Fonctionnaire,CDD,3429,1906,84 mois,Bon,30238,10 mois,1108,Oui,Oui,Sfax,0
+52,Divorcé,2,Cadre supérieur,Auto-entrepreneur,3137,6600,60 mois,Moyen,46837,19 ans,1011,Oui,Oui,Gabès,0
+26,Marié,4,Employé,CDD,2014,4759,12 mois,Bon,26778,17 ans,661,Oui,Non,Sfax,1
+29,Marié,2,Employé,CDD,1517,7850,96 mois,Très bon,24239,3 ans,1532,Oui,Non,Sfax,1
+55,Veuf,4,Employé,CDI,2697,18657,24 mois,Faible,79998,16 ans,772,Oui,Non,Bizerte,0
+38,Marié,0,Indépendant,CDD,1466,3897,48 mois,Bon,71514,20 ans,782,Oui,Non,Sousse,1
+33,Marié,1,Indépendant,Auto-entrepreneur,2299,13000,96 mois,Faible,39408,14 ans,1468,Oui,Non,Sousse,0
+34,Veuf,3,Fonctionnaire,CDI,2540,7221,24 mois,Faible,54795,18 ans,806,Oui,Non,Monastir,0
+42,Marié,3,Employé,Auto-entrepreneur,2353,19761,12 mois,Bon,45567,7 ans,533,Oui,Non,Ariana,1
+52,Célibataire,0,Fonctionnaire,Auto-entrepreneur,3077,1489,96 mois,Faible,44978,20 ans,1417,Oui,Oui,Ariana,0
+37,Marié,2,Fonctionnaire,CDD,2635,5625,48 mois,Très bon,64129,7 ans,1113,Oui,Non,Tunis,1
+36,Marié,4,Fonctionnaire,CDI,3409,15886,72 mois,Excellent,17545,8 ans,1079,Oui,Non,Gabès,1
+45,Veuf,2,Indépendant,Intérim,1558,5972,48 mois,Moyen,14855,12 ans,513,Oui,Non,Mahdia,0
+60,Marié,2,Employé,Auto-entrepreneur,2673,18443,96 mois,Faible,42977,2 ans,786,Oui,Non,Tunis,0
+56,Veuf,1,Fonctionnaire,Intérim,2986,2329,36 mois,Moyen,61840,9 ans,1470,Oui,Oui,Monastir,0
+39,Marié,1,Employé,Auto-entrepreneur,2319,1932,12 mois,Très bon,22431,1 mois,1599,Oui,Oui,Bizerte,0
+57,Veuf,2,Indépendant,CDI,2081,5700,60 mois,Excellent,37166,11 ans,555,Oui,Oui,Sfax,0
+43,Veuf,2,Employé,Auto-entrepreneur,2606,11124,36 mois,Très bon,59309,2 ans,1156,Oui,Non,Mahdia,1
+38,Célibataire,1,Fonctionnaire,Intérim,3316,13752,96 mois,Moyen,58501,9 ans,1056,Oui,Oui,Ariana,0
+34,Célibataire,0,Cadre supérieur,Auto-entrepreneur,4464,12433,12 mois,Très bon,51838,9 mois,1174,Oui,Non,Ariana,1
+36,Veuf,1,Cadre supérieur,Auto-entrepreneur,3290,1105,96 mois,Très bon,7424,20 ans,1159,Oui,Non,Sousse,1
+38,Célibataire,3,Cadre supérieur,CDD,3992,13384,84 mois,Bon,32746,6 ans,671,Oui,Non,Sousse,1
+46,Célibataire,4,Employé,Intérim,1206,8411,12 mois,Moyen,47471,19 ans,579,Oui,Non,Kairouan,0
+46,Célibataire,0,Indépendant,CDI,1529,18957,36 mois,Bon,59373,4 mois,789,Oui,Non,Mahdia,1
+26,Marié,0,Employé,CDD,1720,6210,12 mois,Bon,67059,7 ans,1175,Oui,Non,Sfax,1
+27,Veuf,3,Employé,Auto-entrepreneur,2992,13162,96 mois,Très bon,10732,4 ans,986,Oui,Non,Tunis,1
+34,Célibataire,4,Employé,Intérim,2179,9842,48 mois,Très bon,40643,6 mois,1072,Oui,Non,Monastir,1
+36,Célibataire,2,Cadre supérieur,CDD,3559,9484,60 mois,Bon,52271,17 ans,1175,Oui,Non,Ariana,1
+40,Marié,1,Employé,Intérim,1857,11896,72 mois,Faible,47843,2 ans,981,Oui,Non,Ariana,0
+29,Célibataire,4,Employé,Auto-entrepreneur,2888,4994,72 mois,Très bon,67373,1 ans,644,Oui,Non,Bizerte,1
+49,Veuf,2,Employé,CDI,2979,6235,24 mois,Faible,72636,2 ans,979,Oui,Non,Ariana,0
+54,Marié,1,Employé,CDI,1336,15944,84 mois,Excellent,10260,2 ans,797,Oui,Non,Monastir,1
+29,Célibataire,0,Cadre supérieur,Intérim,4097,16912,48 mois,Excellent,76653,3 ans,1333,Oui,Oui,Bizerte,0
+24,Célibataire,3,Cadre supérieur,CDD,4016,14176,48 mois,Moyen,24687,0 ans,583,Oui,Non,Tunis,0
+42,Célibataire,3,Indépendant,CDD,2154,7633,72 mois,Faible,40925,16 ans,776,Oui,Oui,Mahdia,0
+22,Marié,0,Cadre supérieur,Intérim,3701,12070,24 mois,Très bon,58108,2 ans,1020,Oui,Non,Ariana,1
+33,Veuf,3,Cadre supérieur,CDD,4011,18128,96 mois,Bon,22218,8 mois,915,Oui,Oui,Bizerte,0
+54,Marié,1,Fonctionnaire,CDI,2672,10917,60 mois,Bon,15997,7 mois,596,Oui,Oui,Bizerte,0
+59,Célibataire,4,Cadre supérieur,CDD,3196,15176,96 mois,Faible,71792,17 ans,714,Oui,Non,Ariana,0
+41,Divorcé,2,Fonctionnaire,CDD,3203,7395,48 mois,Très bon,68979,6 ans,1249,Oui,Oui,Sousse,0
+23,Veuf,4,Cadre supérieur,CDD,4264,13365,12 mois,Bon,31121,16 ans,592,Oui,Non,Nabeul,1
+52,Marié,1,Employé,Auto-entrepreneur,1554,2624,96 mois,Faible,59197,19 ans,1230,Oui,Non,Bizerte,0
+24,Célibataire,1,Fonctionnaire,CDD,2309,6691,72 mois,Moyen,23651,1 ans,1309,Oui,Non,Ariana,0
+31,Divorcé,4,Fonctionnaire,Auto-entrepreneur,2377,13876,12 mois,Moyen,18550,7 ans,1137,Oui,Oui,Monastir,0
+29,Divorcé,1,Employé,Auto-entrepreneur,2632,17830,96 mois,Moyen,6464,10 ans,1423,Oui,Non,Monastir,0
+37,Veuf,0,Employé,Intérim,2115,12612,84 mois,Faible,73566,8 mois,836,Oui,Oui,Nabeul,0
+32,Veuf,4,Cadre supérieur,CDD,3146,18937,36 mois,Bon,53343,6 ans,502,Oui,Non,Sfax,1
+35,Marié,3,Employé,Intérim,2279,6989,48 mois,Faible,74115,7 mois,1317,Oui,Oui,Ariana,0
+59,Veuf,3,Indépendant,Intérim,2482,14657,48 mois,Moyen,33259,14 ans,543,Oui,Non,Monastir,0
+34,Divorcé,0,Cadre supérieur,Auto-entrepreneur,3723,4108,96 mois,Bon,74723,9 mois,1332,Oui,Non,Monastir,1
+41,Marié,0,Indépendant,Auto-entrepreneur,1410,7646,36 mois,Moyen,41136,17 ans,767,Oui,Non,Sousse,0
+59,Divorcé,3,Indépendant,CDI,2057,3083,48 mois,Bon,32375,19 ans,941,Oui,Non,Nabeul,1
+37,Marié,4,Indépendant,Intérim,2288,14535,72 mois,Excellent,43808,5 ans,1297,Oui,Non,Sousse,1
+42,Célibataire,4,Cadre supérieur,Auto-entrepreneur,3206,9878,60 mois,Moyen,47583,2 ans,835,Oui,Oui,Monastir,0
+32,Célibataire,4,Fonctionnaire,Intérim,3162,10817,72 mois,Faible,48952,16 ans,1524,Oui,Non,Nabeul,0
+51,Marié,4,Employé,CDI,2597,3658,84 mois,Très bon,26518,17 ans,1107,Oui,Non,Bizerte,1
+59,Veuf,3,Indépendant,Auto-entrepreneur,2263,9079,12 mois,Moyen,32036,15 ans,1567,Oui,Non,Monastir,0
+23,Divorcé,4,Cadre supérieur,CDD,3358,12348,72 mois,Très bon,37093,8 ans,991,Oui,Non,Sfax,1
+43,Veuf,2,Fonctionnaire,Auto-entrepreneur,3490,15936,48 mois,Moyen,49494,13 ans,546,Oui,Non,Mahdia,0
+59,Célibataire,3,Indépendant,CDD,1324,2247,72 mois,Moyen,61931,0 ans,1255,Oui,Non,Bizerte,0
+28,Célibataire,0,Cadre supérieur,Intérim,3030,9481,48 mois,Moyen,48424,17 ans,1528,Oui,Oui,Bizerte,0
+57,Célibataire,1,Employé,Auto-entrepreneur,2306,10173,72 mois,Excellent,21542,11 ans,725,Oui,Oui,Sousse,0
+60,Célibataire,3,Indépendant,Intérim,1664,12510,24 mois,Excellent,53130,3 ans,981,Oui,Oui,Sfax,0
+57,Divorcé,3,Indépendant,Intérim,2415,13230,96 mois,Très bon,48991,4 mois,1553,Oui,Oui,Bizerte,0
+34,Divorcé,2,Fonctionnaire,Intérim,2793,4358,24 mois,Faible,58074,6 mois,1070,Oui,Non,Bizerte,0
+27,Veuf,3,Indépendant,Auto-entrepreneur,1709,12106,60 mois,Faible,40819,10 ans,743,Oui,Oui,Gabès,0
+27,Veuf,0,Fonctionnaire,Intérim,2711,6556,72 mois,Très bon,20805,18 ans,1040,Oui,Oui,Bizerte,0
+50,Veuf,0,Employé,Auto-entrepreneur,2546,16717,84 mois,Faible,35135,19 ans,815,Oui,Non,Monastir,0
+37,Marié,1,Cadre supérieur,CDD,3926,1974,12 mois,Excellent,21772,2 ans,1485,Oui,Non,Ariana,1
