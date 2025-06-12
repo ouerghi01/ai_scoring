@@ -1,0 +1,45 @@
+name: MLOps CI Pipeline
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  mlops-ci:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+
+    - name: Lint code
+      run: |
+        black --check .
+        flake8 .
+
+    - name: Run unit tests
+      run: |
+        pytest
+
+    - name: Reproduce DVC pipeline
+      run: |
+        dvc init --no-scm
+        dvc repro
+
+    - name: Build Docker image
+      run: |
+        docker build -t mlops-starter .
+
+    # Optional: Push Docker image to GitHub Container Registry or elsewhere
