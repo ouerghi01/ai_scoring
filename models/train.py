@@ -1,3 +1,4 @@
+import sys
 import pandas as pd
 import numpy as np
 from sklearn.model_selection import train_test_split, GridSearchCV, StratifiedKFold
@@ -13,7 +14,7 @@ import warnings
 warnings.filterwarnings('ignore', category=UserWarning)
 warnings.filterwarnings('ignore', category=FutureWarning)
 
-def train_and_evaluate(name_dataset:str):
+def train_and_evaluate(name_dataset:str,pipeline_filename):
     print("--- Starting ML Pipeline: Loan Approval Prediction (Professional Grade) ---\n")
     print("1. Loading Dataset...")
     # Load the dataset. Ensure the path is correct.
@@ -155,7 +156,6 @@ def train_and_evaluate(name_dataset:str):
     print("\n8. Saving the Best Trained Model Pipeline...")
     # Save the entire best pipeline to a .pkl file.
     # This file contains the preprocessor and the best trained Random Forest model.
-    pipeline_filename = "random_forest_pipeline_tuned.pkl" # New name to indicate it's tuned
     joblib.dump(best_model, pipeline_filename)
     print(f"   Best model pipeline (including preprocessor) saved as '{pipeline_filename}'")
 
@@ -168,4 +168,6 @@ def train_and_evaluate(name_dataset:str):
 
     print("\n--- ML Pipeline Execution Complete ---")
 
-train_and_evaluate('model/dataset.csv')
+if __name__ == "__main__":
+
+    train_and_evaluate(sys.argv[1], sys.argv[2])

@@ -4,3 +4,10 @@ joblib
 pydantic
 flask_cors
 pandas
+pytest
+black
+flake8
+mypy
+pre-commit
+dvc
+mlflow

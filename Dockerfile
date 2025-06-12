@@ -18,6 +18,7 @@ COPY . .
 
 # Expose port
 EXPOSE 5000
+COPY model/model.pkl ./model/model.pkl
 
 # Run the app
 CMD ["flask", "run", "--host=0.0.0.0"]
