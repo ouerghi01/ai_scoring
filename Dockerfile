@@ -9,6 +9,7 @@ ENV FLASK_APP=app.main:app
 # Set working directory
 WORKDIR /app
 
+# Install system dependencies for DVC and Python packages
 RUN apt-get update && apt-get install -y \
     git \
     gcc \
@@ -24,7 +25,7 @@ RUN pip install -r requirements.txt
 COPY . .
 
 # Initialize and run DVC pipeline (no cache/stage commit here)
-RUN dvc init --no-scm
+RUN dvc init --no-scm -f
 RUN dvc repro
 
 # Expose Flask port
