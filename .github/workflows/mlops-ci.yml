@@ -24,11 +24,16 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt
 
-    
+    - name: Install DVC
+      run: |
+        pip install dvc
+        dvc pull
 
-    
+    - name: Reproduce DVC pipeline
+      run: |
+        dvc init --no-scm
+        dvc repro
 
-    
     - name: Build Docker image
       run: |
         docker build -t mlops-starter .
