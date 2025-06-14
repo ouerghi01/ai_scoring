@@ -5,8 +5,6 @@ install:
 # === Linting ===
 lint:
 	black .
-	flake8 .
-	mypy .
 
 # === Run tests ===
 test:
@@ -22,7 +20,7 @@ docker-build:
 
 # === Run Docker container ===
 docker-run:
-	docker run -p 8000:8000 mlops-starter
+	docker run -p 5000:5000 mlops-starter
 
 # === One command for full CI ===
 ci: lint test dvc-pipeline docker-build

@@ -1,18 +1,37 @@
 import sys
 import pandas as pd
 import numpy as np
+from sklearn.impute import SimpleImputer
+from sklearn.linear_model import LogisticRegression
 from sklearn.model_selection import train_test_split, GridSearchCV, StratifiedKFold
-from sklearn.ensemble import RandomForestClassifier
+from sklearn.ensemble import GradientBoostingClassifier, RandomForestClassifier, StackingClassifier, VotingClassifier
 from sklearn.preprocessing import OneHotEncoder, StandardScaler
 from sklearn.compose import ColumnTransformer
 from sklearn.pipeline import Pipeline
 from sklearn.metrics import accuracy_score, classification_report, confusion_matrix, roc_auc_score
 import joblib # For saving the pipeline
 import warnings
+from sklearn.preprocessing import RobustScaler, PowerTransformer
+from category_encoders import TargetEncoder
+from sklearn.svm import SVC
 
 # Suppress harmless warnings for cleaner output
 warnings.filterwarnings('ignore', category=UserWarning)
 warnings.filterwarnings('ignore', category=FutureWarning)
+def preprocess_data(df):
+    # Normalize Oui/Non columns to boolean
+    bool_map = {'Oui': True, 'Non': False}
+    for col in df.columns:
+        if df[col].dropna().isin(bool_map.keys()).all():
+            df[col] = df[col].map(bool_map)
+    
+    # Ensure proper dtypes
+    bool_columns = ['compte_bancaire_actif', 'incident_bancaire', 'historique_credit']
+    for col in bool_columns:
+        if col in df.columns:
+            df[col] = df[col].astype(bool)
+
+    return df
 
 def train_and_evaluate(name_dataset:str,pipeline_filename):
     print("--- Starting ML Pipeline: Loan Approval Prediction (Professional Grade) ---\n")
@@ -20,6 +39,8 @@ def train_and_evaluate(name_dataset:str,pipeline_filename):
     # Load the dataset. Ensure the path is correct.
     try:
         dataset = pd.read_csv(name_dataset)
+        dataset = preprocess_data(dataset)  # Preprocess the dataset
+
         print(f"Dataset loaded successfully. Shape: {dataset.shape}")
         print("Dataset head:\n", dataset.head())
     except FileNotFoundError:
@@ -31,55 +52,42 @@ def train_and_evaluate(name_dataset:str,pipeline_filename):
     y = dataset.iloc[:, -1]
     
 
-    print("\n2. Defining Features and Preprocessing Steps...")
-    # Define categorical and numerical features
     categorical_features = X.select_dtypes(include=['object', 'category']).columns.tolist()
-    print("   - Categorical features identified:", categorical_features)
-    numerical_features = X.select_dtypes(include=['int64', 'float64']).columns.tolist()
-    print("   - Numerical features identified:", numerical_features)
+    numerical_features = X.select_dtypes(include=[np.number, 'bool']).columns.tolist()
 
-    # Create preprocessing steps
-    # StandardScaler for numerical features (scales data to zero mean and unit variance)
-    # OneHotEncoder for categorical features (converts categories to numerical format)
-    # handle_unknown='ignore' prevents errors if a new category appears during prediction
+    categorical_features = [col for col in categorical_features if col not in numerical_features]
+    numeric_transformer = Pipeline(steps=[
+        ('imputer', SimpleImputer(strategy='median')),
+        ('scaler', RobustScaler()),
+        ('power_transform', PowerTransformer())
+    ])
+
+    categorical_transformer = Pipeline(steps=[
+        ('imputer', SimpleImputer(strategy='constant', fill_value='missing')),
+        ('target_enc', TargetEncoder())
+    ])
     preprocessor = ColumnTransformer(
-    transformers=[
-        ('num', StandardScaler(), numerical_features),
-        ('cat', OneHotEncoder(handle_unknown='ignore'), categorical_features)
-    ],
-    remainder='passthrough' # Ensures no columns are accidentally dropped
+        transformers=[
+            ('num', numeric_transformer, numerical_features),
+            ('cat', categorical_transformer, categorical_features),
+        ],
+        remainder='passthrough'
     )
-
-    
-
-    print("\n3. Setting up Machine Learning Pipeline with Random Forest...")
-    # Create a pipeline that first preprocesses the data and then applies the RandomForestClassifier.
-    # This encapsulates all steps, ensuring consistency between training and prediction.
     model_pipeline = Pipeline(steps=[
     ('preprocessor', preprocessor),
     ('classifier', RandomForestClassifier(random_state=42)) # Initial classifier (hyperparameters will be tuned)
     ])
 
-    print("   Pipeline steps defined: Preprocessor -> RandomForestClassifier")
-
-    print("\n4. Splitting Data into Training and Testing Sets (Stratified)...")
+   
     # Check if every class in y has at least 2 samples before stratified split
     class_counts = y.value_counts()
     if (class_counts < 2).any():
         print("Error: The least populated class in y has fewer than 2 members. Stratified split cannot proceed.")
         print("Class distribution:\n", class_counts)
         exit()
-    # Split data into training and testing sets.
-    # stratify=y ensures that the proportion of 'Approved' (1) and 'Not Approved' (0)
-    # is the same in both training and testing sets, crucial for imbalanced datasets.
+    
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42, stratify=y)
-    print(f"   Training set shape: {X_train.shape}, Test set shape: {X_test.shape}")
-    print(f"   Training set 'Approved' distribution:\n{y_train.value_counts(normalize=True)}")
-    print(f"   Test set 'Approved' distribution:\n{y_test.value_counts(normalize=True)}")
 
-    print("\n5. Hyperparameter Tuning with GridSearchCV and StratifiedKFold...")
-    # Define the parameter grid for GridSearchCV.
-    # These parameters explore different configurations for the RandomForestClassifier.
     param_grid = {
     'classifier__n_estimators': [100, 200, 300], # Number of trees in the forest
     'classifier__max_depth': [None, 10, 20],   # Maximum depth of the tree (None means unlimited)
@@ -87,23 +95,18 @@ def train_and_evaluate(name_dataset:str,pipeline_filename):
     'classifier__min_samples_leaf': [1, 2, 4]    # Minimum number of samples required to be at a leaf node
     }
 
-    # Setup StratifiedKFold for cross-validation.
-    # This ensures each fold has a similar distribution of the target variable.
     cv_strategy = StratifiedKFold(n_splits=5, shuffle=True, random_state=42)
 
-    # Initialize GridSearchCV.
-    # estimator: the pipeline to tune.
-    # param_grid: the parameters to search.
-    # cv: cross-validation strategy.
-    # scoring: metric to optimize (e.g., 'accuracy', 'roc_auc'). 'roc_auc' is often preferred for binary classification.
-    # n_jobs=-1: uses all available CPU cores for faster computation.
-    # verbose=1: prints messages during the search.
-    grid_search = GridSearchCV(estimator=model_pipeline,
-                           param_grid=param_grid,
-                           cv=cv_strategy,
-                           scoring='roc_auc', # Optimize for Area Under the Receiver Operating Characteristic Curve
-                           n_jobs=-1,
-                           verbose=1)
+
+    grid_search = GridSearchCV(
+        estimator=model_pipeline,
+        param_grid=param_grid,
+        cv=cv_strategy,
+        scoring='roc_auc',
+        n_jobs=2,  # Use 2 parallel jobs for faster processing
+        verbose=1
+    )
+
 
     print("   Starting Grid Search (this may take a while)...")
     grid_search.fit(X_train, y_train) # Fit GridSearchCV on the training data
@@ -135,17 +138,15 @@ def train_and_evaluate(name_dataset:str,pipeline_filename):
 
 
     print("\n7. Extracting Feature Importances...")
-    # To get feature importances from the Random Forest, we need to consider the OneHotEncoder's output.
-    # First, get the feature names after preprocessing.
-    # This part assumes the 'preprocessor' step in the pipeline has been fitted.
-    ohe_feature_names = best_model.named_steps['preprocessor'].named_transformers_['cat'].get_feature_names_out(categorical_features)
-    all_feature_names = numerical_features + list(ohe_feature_names)
+   
+    feature_names = best_model.named_steps["preprocessor"].get_feature_names_out()
+
 
     # Get feature importances from the RandomForestClassifier (the 'classifier' step in the pipeline)
     importances = best_model.named_steps['classifier'].feature_importances_
 
     # Create a Series for easier viewing and sorting
-    feature_importances = pd.Series(importances, index=all_feature_names)
+    feature_importances = pd.Series(importances, index=feature_names)
 
     # Sort features by importance
     sorted_importances = feature_importances.sort_values(ascending=False)
@@ -171,3 +172,4 @@ def train_and_evaluate(name_dataset:str,pipeline_filename):
 if __name__ == "__main__":
 
     train_and_evaluate(sys.argv[1], sys.argv[2])
+

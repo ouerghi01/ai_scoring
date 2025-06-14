@@ -11,3 +11,4 @@ mypy
 pre-commit
 dvc
 mlflow
+autoflake

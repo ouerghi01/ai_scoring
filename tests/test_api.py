@@ -1,12 +1,8 @@
-
-
-
-
-
 from app.main import app
 
 
 client = app.test_client()
+
 
 def test_predict():
     data = {
@@ -24,19 +20,19 @@ def test_predict():
         "charges_mensuelles": 900,
         "compte_bancaire_actif": "Oui",
         "incident_bancaire": "Non",
-        "region": "Tunis"
+        "region": "Tunis",
     }
 
     response = client.post("/predict", json=data)
-    
+
     print("Status code:", response.status_code)
     print("Response data:", response.data.decode())  # raw response content as string
-    
+
     assert response.status_code == 200
-    
+
     json_data = response.get_json()
     print("JSON data:", json_data)  # For debugging purposes
-    
+
     assert json_data is not None, "Response JSON is None! Check your endpoint."
 
     assert "prediction" in json_data
@@ -47,6 +43,8 @@ def test_predict():
     assert json_data["prediction"] in [0, 1]
     assert 0.0 <= json_data["probability_not_approved"] <= 1.0
     assert 0.0 <= json_data["probability_approved"] <= 1.0
+
+
 def test_predict_bad_data():
     # Example of bad data that should lead to rejection (prediction = 0)
     bad_data = {
@@ -56,15 +54,15 @@ def test_predict_bad_data():
         "statut_professionnel": "Indépendant",
         "type_contrat": "Auto-entrepreneur",
         "revenus_mensuels_nets": 800,  # low income
-        "apport_propre": 500,          # very low own capital
+        "apport_propre": 500,  # very low own capital
         "duree_financement": "12 mois",
-        "historique_credit": "Faible", # bad credit history
+        "historique_credit": "Faible",  # bad credit history
         "montant_credit": 20000,
         "anciennete_emploi": "6 mois",  # short job seniority
-        "charges_mensuelles": 1100,     # high charges compared to income
+        "charges_mensuelles": 1100,  # high charges compared to income
         "compte_bancaire_actif": "Oui",
-        "incident_bancaire": "Oui",     # previous incidents
-        "region": "Kairouan"
+        "incident_bancaire": "Oui",  # previous incidents
+        "region": "Kairouan",
     }
 
     response = client.post("/predict", json=bad_data)
@@ -78,7 +76,9 @@ def test_predict_bad_data():
     assert json_data is not None, "Response JSON is None"
 
     assert "prediction" in json_data
-    assert json_data["prediction"] == 0, "Expected rejection prediction (0) for bad data"
+    assert (
+        json_data["prediction"] == 0
+    ), "Expected rejection prediction (0) for bad data"
 
     assert 0.0 <= json_data["probability_not_approved"] <= 1.0
     assert 0.0 <= json_data["probability_approved"] <= 1.0
