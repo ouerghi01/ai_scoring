@@ -16,6 +16,10 @@ RUN pip install -r requirements.txt
 # Copy project files
 COPY . .
 
+# Initialize DVC and reproduce pipeline
+RUN dvc init 
+RUN dvc repro
+
 # Expose port
 EXPOSE 5000
 COPY model/model.pkl ./model/model.pkl
