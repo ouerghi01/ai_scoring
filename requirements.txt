@@ -12,3 +12,4 @@ pre-commit
 dvc
 mlflow
 autoflake
+category_encoders
