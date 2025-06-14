@@ -27,7 +27,6 @@ jobs:
     - name: Install DVC
       run: |
         pip install dvc
-        dvc pull
 
     - name: Reproduce DVC pipeline
       run: |
