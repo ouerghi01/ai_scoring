@@ -51,10 +51,8 @@ def predict_model(app, data):
 
     input_df = pd.DataFrame([data], columns=data)
     input_df = preprocess_data(input_df)
-
     prediction = model_pipeline.predict(input_df)
     prediction_proba = model_pipeline.predict_proba(input_df)
-
     # Transform input for SHAP
     X_transformed = model_pipeline.named_steps["preprocessor"].transform(input_df)
     # Convert to dense if sparse
@@ -86,9 +84,10 @@ def predict_model(app, data):
         "probability": round(prediction_proba[0][1], 3),
         "top_features": top_features
     })
+    
     prompt = f"""
     You are a financial advisor. Review the user Input data below and provide 3-5 short, clear, and actionable recommendations to improve their credit score. Avoid explanations—just list the steps.
-
+    Focus on practical actions the user can take to improve their chances of credit approval.
     User Input Data:
     {(data)}
 

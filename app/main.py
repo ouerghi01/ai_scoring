@@ -21,22 +21,7 @@ def predict():
             force=True
         )  # Get JSON data from the request
         resulta = predict_model(app, data)
-        resulta = resulta.get_data(as_text=True)
-        resulta = json.loads(resulta)  # Convert bytes to JSON
-        result = LoanPredictionResult(
-            prediction=int(resulta["prediction"]),
-            probability_not_approved=round(1-resulta["probability"], 4),
-            probability_approved=round(resulta["probability"], 4),
-            top_features=resulta["top_features"],
-            recommendations=resulta.get(
-                "recommendations", "No recommendations available at this time."
-            ),
-        )
-        # Convert top_features to list of dicts for JSON serialization
-        result_dict = result.__dict__.copy()
-        result_dict["top_features"] = [tf.__dict__ for tf in result.top_features]
-        app.logger.info(f"Prediction made successfully: {result}")
-        print(f"Prediction made successfully: {result}")
+        result_dict = process_prediction_data(resulta)
         return jsonify(result_dict)
 
     except Exception as e:
@@ -44,6 +29,12 @@ def predict():
             f"An unexpected error occurred during prediction: {e}", exc_info=True
         )
         return jsonify({"error": f"An internal server error occurred: {str(e)}"}), 500
+
+def process_prediction_data(resulta):
+    resulta = resulta.get_data(as_text=True)
+    resulta = json.loads(resulta)  # Convert bytes to JSON
+    
+    return resulta
 
 
 # --- How to run the Flask app ---

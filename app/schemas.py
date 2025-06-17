@@ -1,6 +1,8 @@
 from pydantic import BaseModel, Field
 from typing import Literal, Annotated
+from dataclasses import dataclass
 
+@dataclass
 
 class LoanApplication(BaseModel):
     age: Annotated[int, Field(ge=18, le=100)]
@@ -29,10 +31,12 @@ class LoanApplication(BaseModel):
         "Mahdia",
         "Gabès",
     ]
+@dataclass
 
 class TopFeature(BaseModel):
     feature: str
     impact: float
+@dataclass
 
 class LoanPredictionResult(BaseModel):
     prediction: Annotated[int, Field(description="0 (Not Approved) or 1 (Approved)")]

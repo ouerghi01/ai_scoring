@@ -2,10 +2,8 @@ import sys
 import pandas as pd
 import numpy as np
 from sklearn.impute import SimpleImputer
-from sklearn.linear_model import LogisticRegression
 from sklearn.model_selection import train_test_split, GridSearchCV, StratifiedKFold
-from sklearn.ensemble import GradientBoostingClassifier, RandomForestClassifier, StackingClassifier, VotingClassifier
-from sklearn.preprocessing import OneHotEncoder, StandardScaler
+from sklearn.ensemble import  RandomForestClassifier
 from sklearn.compose import ColumnTransformer
 from sklearn.pipeline import Pipeline
 from sklearn.metrics import accuracy_score, classification_report, confusion_matrix, roc_auc_score
@@ -13,11 +11,7 @@ import joblib # For saving the pipeline
 import warnings
 from sklearn.preprocessing import RobustScaler, PowerTransformer
 from category_encoders import TargetEncoder
-from sklearn.svm import SVC
 
-# Suppress harmless warnings for cleaner output
-warnings.filterwarnings('ignore', category=UserWarning)
-warnings.filterwarnings('ignore', category=FutureWarning)
 def preprocess_data(df):
     # Normalize Oui/Non columns to boolean
     bool_map = {'Oui': True, 'Non': False}
@@ -32,6 +26,10 @@ def preprocess_data(df):
             df[col] = df[col].astype(bool)
 
     return df
+# Suppress harmless warnings for cleaner output
+warnings.filterwarnings('ignore', category=UserWarning)
+warnings.filterwarnings('ignore', category=FutureWarning)
+
 
 def train_and_evaluate(name_dataset:str,pipeline_filename):
     print("--- Starting ML Pipeline: Loan Approval Prediction (Professional Grade) ---\n")

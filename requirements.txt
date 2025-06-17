@@ -13,3 +13,5 @@ dvc
 mlflow
 autoflake
 category_encoders
+google-genai
+shap
