@@ -20,6 +20,7 @@ flask-app.tar
 # Flask specific
 instance/
 .flaskenv
+.docker_temp_596581743
 
 # Editor/OS specific files
 .DS_Store
