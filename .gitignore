@@ -16,7 +16,7 @@ venv/
 # For now, let's include it assuming it's reasonably sized.
 # random_forest_pipeline.pkl  # Uncomment this line if you want to IGNORE the model file
 # financing_approval_balanced_dataset_Tunisia_with_interactions.csv # Uncomment if you want to IGNORE the dataset
-
+flask-app.tar
 # Flask specific
 instance/
 .flaskenv

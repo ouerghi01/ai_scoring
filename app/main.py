@@ -1,8 +1,8 @@
 from flask import Flask, request, jsonify
 import logging  # For better error logging
 from flask_cors import CORS
-from model import predict_model
-from schemas import LoanApplication, LoanPredictionResult
+from app.model import predict_model
+from app.schemas import LoanApplication
 import json
 # Configure basic logging
 logging.basicConfig(
@@ -12,7 +12,6 @@ app = Flask(__name__)
 CORS(app)
 
 
-# --- 2. Prediction Endpoint ---
 @app.route("/predict", methods=["POST"])
 def predict():
 
@@ -39,12 +38,6 @@ def process_prediction_data(resulta):
 
 # --- How to run the Flask app ---
 if __name__ == "__main__":
-    # BEFORE RUNNING THIS FLASK APP:
-    # 1. Ensure you have the updated training script (Step 1 above).
-    # 2. Run the updated training script to generate 'random_forest_pipeline.pkl'.
-    # 3. Save this Flask code as 'app.py' in the same directory as 'random_forest_pipeline.pkl'.
-    # 4. Install necessary libraries: pip install Flask scikit-learn pandas joblib
-    # 5. Open your terminal in that directory and run: python app.py
+    
     app.run(debug=True, host="0.0.0.0", port=5000)
-    # debug=True allows for auto-reloading and better error messages in development.
-    # host='0.0.0.0' makes the server accessible from other machines on your network.
+    
