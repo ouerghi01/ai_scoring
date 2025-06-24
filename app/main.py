@@ -1,8 +1,8 @@
 from flask import Flask, request, jsonify
 import logging  # For better error logging
 from flask_cors import CORS
-from app.model import predict_model
-from app.schemas import LoanApplication
+from model import predict_model
+from schemas import LoanApplication
 import json
 # Configure basic logging
 logging.basicConfig(
@@ -18,9 +18,11 @@ def predict():
     try:
         data: LoanApplication = request.get_json(
             force=True
-        )  # Get JSON data from the request
+        )  
+        
         resulta = predict_model(app, data)
         result_dict = process_prediction_data(resulta)
+        print(result_dict)
         return jsonify(result_dict)
 
     except Exception as e:
