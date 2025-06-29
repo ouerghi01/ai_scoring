@@ -30,4 +30,3 @@ jobs:
       run: |
         docker build -t mlops-starter .
 
-    # Optional: Push Docker image to GitHub Container Registry or elsewhere

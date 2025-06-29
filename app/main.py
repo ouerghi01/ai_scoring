@@ -1,8 +1,8 @@
 from flask import Flask, request, jsonify
 import logging  # For better error logging
 from flask_cors import CORS
-from model import predict_model
-from schemas import LoanApplication
+from app.model import predict_model , load_model
+from app.schemas import LoanApplication
 import json
 # Configure basic logging
 logging.basicConfig(
@@ -11,7 +11,7 @@ logging.basicConfig(
 app = Flask(__name__)
 CORS(app)
 
-
+model_pipeline= load_model(app, "model/model.pkl")
 @app.route("/predict", methods=["POST"])
 def predict():
 
@@ -20,7 +20,7 @@ def predict():
             force=True
         )  
         
-        resulta = predict_model(app, data)
+        resulta = predict_model(app, data,model_pipeline)
         result_dict = process_prediction_data(resulta)
         print(result_dict)
         return jsonify(result_dict)
@@ -41,5 +41,5 @@ def process_prediction_data(resulta):
 # --- How to run the Flask app ---
 if __name__ == "__main__":
     
-    app.run(debug=True, host="0.0.0.0", port=5000)
+    app.run(debug=True, host="0.0.0.0", port=5000, threaded=True)  # Enable threaded mode for concurrent requests
     
